@@ -79,23 +79,27 @@ customer-churn-retention-marketing-analytics/
 │
 ├── screenshots/
 │   └── Power BI dashboard screenshots
-│
-├── python/
-│   ├── Python analysis notebook
-│   └── outputs/
+│   
+├── documentation/
+│  └── Project Directory.xlsx
+│ 
+│ └── outputs/
 │       ├── customer_churn_clv_predictions.csv
 │       ├── customer_risk_segment_summary.csv
 │       ├── churn_feature_importance.csv
 │       └── clv_feature_importance.csv
-│
-├── power-bi/
+│ 
+│├── power-bi/
 │   └── Power BI dashboard
+│ 
+├── python/
+│   ├── Python analysis notebook
+│ 
 │
 ├── sql/
 │   └── SQL analysis
 │
-└── documentation/
-    └── Project Directory.xlsx
+└──
 ```
 
 ## Dashboard Preview
