@@ -100,20 +100,19 @@ customer-churn-retention-marketing-analytics/
 
 ### Executive Overview
 
-![Executive Overview](./screenshots/01-executive-overview.png.png)
+![Executive Overview](./Screenshots/01-executive-overview.png.png)
 
 ### Customer Demographics
 
-![Customer Demographics](./screenshots/02-customer-demographics.png.png)
+![Customer Demographics](./Screenshots/02-customer-demographics.png.png)
 
 ### Churn & Retention 1
 
-![Churn & Retention 1](./screenshots/03-churn-retention-1.png.png)
+![Churn & Retention 1](./Screenshots/03-churn-retention-1.png.png)
 
 ### Churn & Retention 2
 
-![Churn & Retention 2](./screenshots/04-churn-retention-2.png.png)
-
+![Churn & Retention 2](./Screenshots/04-churn-retention-2.png.png)
 
 ## Project Purpose
 
