@@ -26,7 +26,7 @@ The dataset was created using **Python and Faker** to simulate a realistic busin
 
 ## Dataset
 
-The dataset is **synthetic data i generated with Faker** for portfolio purposes.
+The dataset is **synthetic data generated with Faker** for portfolio purposes.
 
 The raw datasets are stored in the `data` folder.
 
@@ -96,8 +96,25 @@ customer-churn-retention-marketing-analytics/
 │
 └── documentation/
     └── Project Directory.xlsx
+```
 
+## Dashboard Preview
 
+### Executive Overview
+
+<img src="https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/01-executive-overview.png.png" alt="Executive Overview">
+
+### Customer Demographics
+
+<img src="https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/02-customer-demographics.png.png" alt="Customer Demographics">
+
+### Churn & Retention 1
+
+<img src="https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/03-churn-retention-1.png.png" alt="Churn & Retention 1">
+
+### Churn & Retention 2
+
+<img src="https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/04-churn-retention-2.png.png" alt="Churn & Retention 2">
 
 ## Project Purpose
 
