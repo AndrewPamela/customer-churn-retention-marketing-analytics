@@ -114,8 +114,7 @@ customer-churn-retention-marketing-analytics/
 
 ### Churn & Retention 2
 
-<img src="https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/04-churn-retention-2.png.png" alt="Churn & Retention 2">
-
+<img src="./Screenshots/04-churn-retention-2%20(1).png" alt="Churn & Retention 2">
 ## Project Purpose
 
 This project demonstrates my ability to work across the full analytics process — from creating and preparing data to analysing it with Python and SQL, building predictive outputs, and communicating findings through Power BI.
@@ -123,6 +122,6 @@ This project demonstrates my ability to work across the full analytics process �
 ## Author
 
 **Andrew Pamela**
-**DataByPam**
+(**DataByPam**)
 
 © 2026 Andrew Pamela | DataByPam
