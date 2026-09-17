@@ -100,19 +100,18 @@ customer-churn-retention-marketing-analytics/
 
 ### Executive Overview
 
-![Executive Overview](https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/01-executive-overview.png.png)
+(https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/01-executive-overview.png.png)
 
 ### Customer Demographics
 
-![Customer Demographics](https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/02-customer-demographics.png.png)
+(https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/02-customer-demographics.png.png)
 
 ### Churn & Retention 1
 
-![Churn & Retention 1](https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/03-churn-retention-1.png.png)
+(https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/03-churn-retention-1.png.png)
 
 ### Churn & Retention 2
-
-![Churn & Retention 2](https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/04-churn-retention-2.png.png)
+(https://raw.githubusercontent.com/AndrewPamela/customer-churn-retention-marketing-analytics/main/Screenshots/04-churn-retention-2.png.png)
 
 ## Project Purpose
 
