@@ -96,7 +96,24 @@ customer-churn-retention-marketing-analytics/
 │
 └── documentation/
     └── Project Directory.xlsx
-```
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](screenshots/01-executive-overview.png)
+
+### Customer Demographics
+
+![Customer Demographics](screenshots/02-customer-demographics.png)
+
+### Churn & Retention 1
+
+![Churn & Retention 1](screenshots/03-churn-retention-1.png)
+
+### Churn & Retention 2
+
+![Churn & Retention 2](screenshots/04-churn-retention-2.png)
+
 
 ## Project Purpose
 
