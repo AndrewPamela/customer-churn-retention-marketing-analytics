@@ -1,0 +1,16 @@
+Feature	Coefficient	Absolute_Importance
+Age_Group_26-40	-0.548345626	0.548345626
+Gender_Other	-0.412878344	0.412878344
+Income_Band_Medium	-0.319839292	0.319839292
+Age_Group_60+	0.269827546	0.269827546
+Gender_M	-0.256591161	0.256591161
+Income_Band_Low	-0.231750888	0.231750888
+Age_Group_41-60	-0.202559985	0.202559985
+Service_Cases	0.160613703	0.160613703
+Average_Satisfaction	0.130827665	0.130827665
+Total_Transactions	0.024852168	0.024852168
+Tenure_Days	-0.000604598	0.000604598
+Customer_Lifetime_Days	-0.000503202	0.000503202
+Recency	8.43E-05	8.43E-05
+Average_Order_Value	-1.05E-06	1.05E-06
+Historical_Revenue	-1.03E-06	1.03E-06

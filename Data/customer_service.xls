@@ -1,0 +1,1001 @@
+Ticket_ID,CustomerID,Ticket_Date,Issue_Type,Priority,Resolution_Time_Hours,Resolution_Status,Satisfaction_Score,Complaint_Channel,Escalated,Resolution_Outcome
+CS0001,C0729,2024-10-04,Delivery problem,High,33,Unresolved,,Social Media,False,Apology
+CS0002,C0086,2026-04-13,Product complaint,Medium,58,Resolved,,Email,True,Refund
+CS0003,C3067,2025-05-18,Account issue,Low,37,Unresolved,5.0,In-Store,False,Replacement
+CS0004,C2330,2025-08-05,Account issue,Medium,6,Unresolved,,In-Store,True,None
+CS0005,C1796,2024-12-22,Technical problem,High,67,Unresolved,1.0,Social Media,False,None
+CS0006,C1182,2025-01-14,Refund request,Low,44,Resolved,3.0,Email,False,None
+CS0007,C0310,2025-01-30,Payment issue,Low,13,Resolved,5.0,Email,False,Refund
+CS0008,C2184,2025-10-26,Customer service complaint,High,67,Unresolved,,App,True,Apology
+CS0009,C1003,2024-09-15,Account issue,Medium,44,Unresolved,1.0,Social Media,False,Replacement
+CS0010,C2237,2025-03-19,Delivery problem,Low,51,Unresolved,,Phone,True,Replacement
+CS0011,C3462,2024-10-31,Product complaint,Medium,43,Unresolved,,In-Store,False,Apology
+CS0012,C1229,2025-06-11,Refund request,Low,5,Unresolved,,In-Store,True,Replacement
+CS0013,C3013,2025-04-03,Customer service complaint,Low,17,Resolved,3.0,App,True,Refund
+CS0014,C2913,2024-10-22,Account issue,Low,36,Unresolved,4.0,Email,True,Refund
+CS0015,C1634,2026-01-11,Technical problem,Medium,67,Unresolved,3.0,Phone,True,None
+CS0016,C2047,2026-01-23,Account issue,Medium,14,Resolved,3.0,In-Store,True,None
+CS0017,C1496,2024-11-01,Delivery problem,High,36,Resolved,4.0,Social Media,True,Refund
+CS0018,C1786,2025-02-02,Account issue,Medium,36,Unresolved,,In-Store,False,None
+CS0019,C2953,2026-05-18,Technical problem,Medium,16,Unresolved,1.0,In-Store,False,Refund
+CS0020,C1862,2024-12-12,Payment issue,High,52,Resolved,5.0,Social Media,True,Apology
+CS0021,C1021,2026-03-07,Technical problem,High,53,Unresolved,,In-Store,True,Refund
+CS0022,C0759,2026-02-15,Account issue,Low,28,Unresolved,,In-Store,False,Refund
+CS0023,C0691,2025-01-07,Customer service complaint,Medium,35,Resolved,,Social Media,True,None
+CS0024,C1435,2024-11-14,Account issue,High,59,Resolved,,Phone,True,Refund
+CS0025,C1528,2026-06-23,Delivery problem,Medium,41,Resolved,,Phone,False,None
+CS0026,C2026,2025-04-13,Payment issue,Low,8,Resolved,1.0,App,False,Apology
+CS0027,C3204,2026-07-20,Delivery problem,Medium,12,Unresolved,1.0,Email,True,Refund
+CS0028,C2034,2025-07-05,Delivery problem,High,53,Unresolved,,Social Media,True,Replacement
+CS0029,C1073,2026-04-23,Customer service complaint,Low,50,Resolved,,App,False,Refund
+CS0030,C2440,2025-11-27,Delivery problem,Medium,69,Unresolved,,App,True,Refund
+CS0031,C1993,2024-12-06,Customer service complaint,Low,64,Unresolved,5.0,Social Media,True,None
+CS0032,C3484,2026-05-10,Payment issue,Low,12,Unresolved,,In-Store,False,None
+CS0033,C1145,2025-08-08,Customer service complaint,High,61,Resolved,2.0,In-Store,True,Apology
+CS0034,C1589,2025-02-11,Technical problem,Medium,57,Unresolved,4.0,In-Store,False,Replacement
+CS0035,C1560,2025-08-26,Delivery problem,Low,10,Resolved,,Email,False,Replacement
+CS0036,C2798,2026-04-15,Delivery problem,Medium,28,Resolved,5.0,Phone,False,Refund
+CS0037,C0312,2025-12-12,Customer service complaint,Medium,8,Resolved,,Phone,True,None
+CS0038,C1538,2024-12-17,Account issue,Low,61,Unresolved,3.0,App,True,Replacement
+CS0039,C1348,2026-06-06,Product complaint,High,14,Unresolved,1.0,App,True,None
+CS0040,C1552,2025-01-04,Product complaint,High,47,Unresolved,,In-Store,False,Refund
+CS0041,C2961,2026-08-24,Technical problem,Low,8,Resolved,5.0,Social Media,True,None
+CS0042,C2923,2024-10-18,Customer service complaint,Low,34,Resolved,,Phone,False,Refund
+CS0043,C0077,2025-12-28,Refund request,Medium,50,Unresolved,,Phone,False,None
+CS0044,C2435,2025-12-25,Delivery problem,Medium,44,Unresolved,,Phone,False,None
+CS0045,C0395,2025-05-15,Customer service complaint,Low,7,Unresolved,,Phone,False,None
+CS0046,C1483,2025-11-10,Product complaint,Low,55,Unresolved,4.0,App,False,None
+CS0047,C1088,2026-03-10,Product complaint,Low,29,Resolved,,Social Media,True,Replacement
+CS0048,C1002,2024-11-14,Product complaint,Medium,45,Resolved,3.0,Social Media,True,Refund
+CS0049,C2811,2026-02-15,Refund request,High,1,Resolved,,Email,True,Refund
+CS0050,C3237,2026-06-14,Product complaint,Low,20,Unresolved,4.0,In-Store,False,Replacement
+CS0051,C2182,2026-05-08,Refund request,Low,25,Unresolved,,App,False,Refund
+CS0052,C1645,2026-02-06,Delivery problem,Low,59,Unresolved,1.0,Social Media,True,Replacement
+CS0053,C2747,2026-09-08,Product complaint,Low,9,Unresolved,,Email,True,Refund
+CS0054,C0191,2026-08-12,Refund request,Medium,23,Resolved,,Phone,False,Refund
+CS0055,C1107,2026-03-12,Product complaint,High,49,Unresolved,,Social Media,True,Apology
+CS0056,C3232,2026-05-20,Customer service complaint,Medium,33,Resolved,,Email,False,Replacement
+CS0057,C2596,2026-08-14,Product complaint,Low,65,Unresolved,4.0,Social Media,False,Refund
+CS0058,C3292,2026-02-13,Technical problem,Medium,3,Unresolved,,Phone,False,None
+CS0059,C2542,2025-08-24,Refund request,Low,63,Resolved,,Phone,False,None
+CS0060,C1638,2026-03-07,Refund request,High,66,Resolved,5.0,Social Media,True,Replacement
+CS0061,C1276,2025-02-18,Technical problem,Medium,41,Resolved,1.0,Social Media,True,None
+CS0062,C3440,2025-03-18,Payment issue,Low,16,Unresolved,5.0,Phone,False,Refund
+CS0063,C1378,2026-03-09,Technical problem,Medium,46,Resolved,,App,True,Refund
+CS0064,C3249,2025-07-25,Payment issue,Low,3,Unresolved,,Social Media,True,Replacement
+CS0065,C3338,2024-10-16,Delivery problem,High,60,Unresolved,,App,True,None
+CS0066,C0383,2025-05-01,Customer service complaint,Medium,46,Resolved,,Email,True,Refund
+CS0067,C2129,2025-11-04,Payment issue,High,46,Unresolved,,In-Store,False,Apology
+CS0068,C0329,2026-07-24,Payment issue,High,28,Unresolved,,Social Media,True,Apology
+CS0069,C1861,2026-05-12,Refund request,Low,64,Unresolved,,Phone,True,Refund
+CS0070,C1336,2025-08-23,Account issue,Low,37,Resolved,,Email,False,Replacement
+CS0071,C0074,2026-06-02,Delivery problem,Low,24,Resolved,,In-Store,False,Refund
+CS0072,C2740,2024-12-29,Product complaint,High,53,Unresolved,,App,False,None
+CS0073,C0826,2025-08-25,Delivery problem,Medium,35,Resolved,2.0,Phone,False,Refund
+CS0074,C0157,2024-10-26,Delivery problem,Low,17,Unresolved,1.0,Social Media,False,Replacement
+CS0075,C0424,2025-05-07,Account issue,Medium,55,Unresolved,4.0,Social Media,True,Apology
+CS0076,C3202,2024-11-19,Refund request,High,11,Resolved,1.0,Phone,True,Refund
+CS0077,C2798,2026-01-15,Customer service complaint,Low,9,Unresolved,2.0,App,False,Refund
+CS0078,C0577,2026-03-26,Customer service complaint,Low,22,Resolved,,Email,True,Replacement
+CS0079,C0278,2025-03-04,Account issue,High,5,Resolved,5.0,Phone,True,Replacement
+CS0080,C1834,2026-05-19,Refund request,Low,35,Resolved,,Email,False,Replacement
+CS0081,C1629,2025-03-24,Customer service complaint,Low,15,Resolved,,Phone,False,Apology
+CS0082,C3113,2026-03-17,Customer service complaint,Medium,27,Resolved,,App,False,Replacement
+CS0083,C0020,2025-11-18,Account issue,High,46,Unresolved,3.0,Phone,True,Replacement
+CS0084,C0929,2025-01-26,Delivery problem,Low,54,Unresolved,,Email,False,None
+CS0085,C0764,2025-02-14,Product complaint,Low,39,Unresolved,3.0,Phone,True,Refund
+CS0086,C2500,2025-12-24,Refund request,High,72,Resolved,4.0,Email,False,None
+CS0087,C3252,2025-12-13,Customer service complaint,Medium,49,Unresolved,4.0,In-Store,True,Replacement
+CS0088,C3408,2024-12-14,Payment issue,High,38,Resolved,4.0,Email,True,Apology
+CS0089,C1228,2026-06-26,Payment issue,High,16,Unresolved,,Email,True,Apology
+CS0090,C1228,2026-02-28,Customer service complaint,Low,17,Unresolved,,In-Store,True,Replacement
+CS0091,C2107,2025-09-27,Payment issue,High,9,Unresolved,5.0,Phone,False,None
+CS0092,C2918,2026-08-13,Delivery problem,Medium,71,Resolved,,App,False,Apology
+CS0093,C1713,2025-07-25,Refund request,High,59,Unresolved,,Phone,True,Replacement
+CS0094,C2475,2026-04-02,Account issue,High,62,Resolved,5.0,Phone,False,None
+CS0095,C3256,2026-04-23,Refund request,High,19,Unresolved,,Email,True,Refund
+CS0096,C2627,2026-02-24,Product complaint,Low,38,Unresolved,,Social Media,True,Refund
+CS0097,C2651,2026-03-13,Refund request,Medium,65,Unresolved,3.0,Phone,False,Replacement
+CS0098,C1805,2025-08-12,Account issue,High,14,Unresolved,,App,False,Apology
+CS0099,C1474,2025-11-25,Technical problem,High,29,Unresolved,,App,False,Apology
+CS0100,C3361,2024-10-06,Delivery problem,Low,19,Unresolved,4.0,Email,False,Replacement
+CS0101,C0834,2024-11-06,Account issue,Medium,72,Resolved,3.0,In-Store,True,None
+CS0102,C0398,2024-10-28,Payment issue,Low,27,Resolved,2.0,App,False,None
+CS0103,C0949,2025-10-18,Technical problem,Medium,35,Resolved,3.0,App,False,Apology
+CS0104,C0780,2025-06-22,Delivery problem,High,39,Unresolved,,Social Media,False,None
+CS0105,C1354,2025-09-14,Refund request,Medium,60,Resolved,1.0,App,False,None
+CS0106,C2906,2025-12-10,Product complaint,Medium,67,Unresolved,2.0,Email,True,None
+CS0107,C2512,2025-12-19,Delivery problem,High,53,Resolved,,In-Store,False,Replacement
+CS0108,C1828,2025-03-22,Customer service complaint,Medium,68,Unresolved,,Email,False,Replacement
+CS0109,C3079,2026-06-27,Payment issue,Medium,48,Resolved,5.0,Phone,True,Apology
+CS0110,C3020,2026-03-06,Account issue,Low,42,Resolved,2.0,App,True,None
+CS0111,C0806,2026-06-21,Product complaint,High,33,Resolved,,Phone,True,Refund
+CS0112,C0202,2025-08-07,Payment issue,High,23,Unresolved,2.0,Social Media,True,Apology
+CS0113,C3340,2025-03-04,Customer service complaint,High,55,Resolved,4.0,Social Media,True,Apology
+CS0114,C2342,2025-06-15,Delivery problem,Medium,49,Resolved,5.0,In-Store,True,Apology
+CS0115,C2547,2026-03-07,Payment issue,Low,60,Resolved,,Social Media,False,Replacement
+CS0116,C1370,2024-10-25,Account issue,Low,34,Unresolved,,App,True,None
+CS0117,C0773,2026-06-09,Refund request,Medium,14,Resolved,,In-Store,False,Apology
+CS0118,C0225,2026-05-29,Account issue,High,14,Resolved,2.0,Email,False,Apology
+CS0119,C1134,2026-04-26,Refund request,Low,3,Resolved,,In-Store,False,Refund
+CS0120,C0165,2026-03-16,Payment issue,High,48,Resolved,2.0,Social Media,False,Replacement
+CS0121,C1280,2026-03-19,Technical problem,Medium,13,Resolved,,In-Store,True,Apology
+CS0122,C3191,2026-06-16,Account issue,Low,36,Resolved,3.0,Phone,False,Apology
+CS0123,C1121,2025-03-18,Account issue,Medium,31,Resolved,,Social Media,False,Replacement
+CS0124,C0919,2025-05-14,Delivery problem,High,51,Unresolved,,Email,False,Replacement
+CS0125,C2012,2026-03-15,Payment issue,Medium,40,Resolved,5.0,Phone,False,None
+CS0126,C3175,2026-01-15,Payment issue,Medium,66,Unresolved,2.0,Social Media,True,Replacement
+CS0127,C2135,2025-10-05,Technical problem,Low,48,Resolved,1.0,Email,True,Apology
+CS0128,C1052,2025-03-05,Delivery problem,Low,16,Unresolved,,In-Store,True,Refund
+CS0129,C1986,2025-07-18,Refund request,High,62,Unresolved,3.0,Phone,True,Apology
+CS0130,C1877,2025-06-07,Technical problem,Medium,13,Resolved,,Social Media,False,Replacement
+CS0131,C2835,2025-10-04,Delivery problem,High,61,Unresolved,,Phone,False,Apology
+CS0132,C3277,2026-02-25,Refund request,Medium,46,Unresolved,,In-Store,False,Refund
+CS0133,C2849,2026-04-24,Payment issue,Medium,45,Unresolved,,Email,True,Refund
+CS0134,C3117,2024-11-06,Customer service complaint,High,58,Resolved,,Social Media,True,Refund
+CS0135,C1532,2025-12-22,Technical problem,Low,65,Unresolved,2.0,Email,True,Replacement
+CS0136,C2149,2026-08-28,Technical problem,High,49,Unresolved,3.0,App,True,Replacement
+CS0137,C0404,2025-02-08,Payment issue,High,38,Unresolved,,App,True,Refund
+CS0138,C1153,2025-08-30,Refund request,Low,32,Resolved,2.0,In-Store,False,None
+CS0139,C0717,2026-04-22,Delivery problem,High,56,Unresolved,,Email,True,Replacement
+CS0140,C0515,2026-09-12,Payment issue,Low,42,Resolved,,Email,False,Refund
+CS0141,C2613,2025-12-01,Technical problem,High,22,Resolved,1.0,Phone,True,Apology
+CS0142,C1750,2025-11-04,Customer service complaint,Medium,13,Resolved,,App,True,None
+CS0143,C0318,2026-08-14,Product complaint,Medium,11,Unresolved,,Email,False,Refund
+CS0144,C1663,2025-12-14,Account issue,Medium,35,Unresolved,5.0,In-Store,False,Replacement
+CS0145,C2072,2024-12-11,Payment issue,Medium,64,Unresolved,5.0,In-Store,True,Apology
+CS0146,C2796,2025-04-06,Product complaint,Medium,43,Unresolved,2.0,In-Store,False,Apology
+CS0147,C2173,2024-11-19,Delivery problem,High,38,Unresolved,,App,True,Apology
+CS0148,C0409,2026-08-26,Account issue,Medium,55,Unresolved,,Phone,True,Replacement
+CS0149,C3313,2025-11-21,Technical problem,Medium,35,Resolved,5.0,Email,False,Replacement
+CS0150,C1331,2025-05-25,Product complaint,Low,15,Resolved,4.0,App,False,Refund
+CS0151,C3078,2026-04-18,Product complaint,High,66,Unresolved,2.0,Phone,True,None
+CS0152,C0108,2026-02-06,Refund request,High,51,Unresolved,4.0,Social Media,True,None
+CS0153,C0180,2026-07-06,Payment issue,Medium,1,Unresolved,,App,False,Replacement
+CS0154,C1808,2025-07-10,Customer service complaint,High,17,Unresolved,5.0,Email,False,Replacement
+CS0155,C2852,2025-03-06,Product complaint,Low,61,Resolved,1.0,Phone,False,None
+CS0156,C1933,2025-06-19,Delivery problem,Low,47,Unresolved,,App,True,Replacement
+CS0157,C2495,2024-09-22,Technical problem,Medium,40,Resolved,4.0,Social Media,True,Replacement
+CS0158,C0082,2026-06-27,Refund request,Medium,21,Unresolved,4.0,In-Store,False,Apology
+CS0159,C0752,2025-10-23,Technical problem,High,7,Unresolved,,App,False,None
+CS0160,C1192,2026-06-06,Customer service complaint,Low,22,Unresolved,,In-Store,True,Replacement
+CS0161,C2744,2025-04-23,Customer service complaint,High,72,Unresolved,2.0,Social Media,False,Refund
+CS0162,C3237,2026-04-09,Delivery problem,High,14,Unresolved,5.0,App,True,Replacement
+CS0163,C0172,2025-08-27,Technical problem,Low,69,Unresolved,3.0,Email,True,Replacement
+CS0164,C1973,2026-08-11,Payment issue,Medium,71,Resolved,,In-Store,True,Replacement
+CS0165,C3225,2026-02-24,Account issue,Medium,51,Unresolved,,Phone,True,Refund
+CS0166,C0351,2026-08-11,Customer service complaint,High,52,Unresolved,4.0,In-Store,False,None
+CS0167,C3396,2025-01-04,Account issue,Medium,11,Resolved,,Email,False,Refund
+CS0168,C0333,2025-01-01,Product complaint,High,12,Unresolved,,Email,False,Apology
+CS0169,C1178,2025-05-19,Product complaint,High,13,Resolved,,Email,False,Replacement
+CS0170,C3020,2025-12-14,Account issue,High,50,Resolved,,Email,True,Apology
+CS0171,C3150,2026-08-03,Payment issue,High,28,Unresolved,,In-Store,True,Refund
+CS0172,C2250,2024-09-15,Customer service complaint,Low,53,Unresolved,5.0,App,False,Replacement
+CS0173,C1692,2026-02-19,Technical problem,Medium,53,Unresolved,,App,True,Refund
+CS0174,C1364,2026-04-25,Technical problem,High,37,Resolved,,Email,False,None
+CS0175,C2748,2025-03-16,Account issue,Low,58,Resolved,,In-Store,False,Refund
+CS0176,C0190,2024-11-03,Delivery problem,High,5,Unresolved,,Social Media,True,Replacement
+CS0177,C3245,2024-12-27,Customer service complaint,Low,22,Resolved,5.0,Email,False,Apology
+CS0178,C2576,2026-05-25,Refund request,High,61,Resolved,4.0,Phone,True,Replacement
+CS0179,C2553,2025-10-06,Delivery problem,Low,31,Resolved,4.0,In-Store,True,Apology
+CS0180,C3084,2026-08-29,Customer service complaint,Low,5,Resolved,,Social Media,False,Apology
+CS0181,C0552,2026-07-19,Product complaint,High,37,Resolved,1.0,Email,True,Apology
+CS0182,C2755,2025-12-12,Payment issue,Low,67,Unresolved,4.0,In-Store,True,Refund
+CS0183,C1008,2025-06-26,Product complaint,Low,39,Unresolved,,In-Store,False,Replacement
+CS0184,C2256,2025-05-18,Delivery problem,Medium,48,Resolved,5.0,Social Media,False,Replacement
+CS0185,C2483,2026-03-22,Account issue,High,14,Resolved,,Email,False,Refund
+CS0186,C2832,2026-06-16,Product complaint,Low,11,Unresolved,5.0,App,True,Replacement
+CS0187,C1990,2025-03-24,Refund request,Low,1,Unresolved,2.0,Social Media,True,None
+CS0188,C2889,2026-03-01,Technical problem,High,45,Unresolved,4.0,App,False,None
+CS0189,C1634,2025-05-05,Customer service complaint,Medium,61,Resolved,5.0,In-Store,False,Replacement
+CS0190,C0506,2025-10-12,Customer service complaint,Low,10,Unresolved,,Phone,False,Replacement
+CS0191,C3284,2025-04-06,Product complaint,High,9,Unresolved,,Social Media,True,Replacement
+CS0192,C2792,2025-01-10,Account issue,High,15,Resolved,,Social Media,False,Replacement
+CS0193,C1399,2025-12-21,Account issue,High,52,Resolved,,Phone,False,None
+CS0194,C2463,2026-01-26,Payment issue,Medium,56,Unresolved,5.0,Email,True,Refund
+CS0195,C0009,2026-04-06,Technical problem,Low,63,Unresolved,2.0,Phone,True,Refund
+CS0196,C1641,2025-08-07,Customer service complaint,Low,39,Resolved,,Social Media,False,Refund
+CS0197,C2168,2025-09-05,Payment issue,Low,22,Unresolved,,Phone,True,Replacement
+CS0198,C1090,2025-08-17,Delivery problem,High,28,Unresolved,3.0,In-Store,False,Refund
+CS0199,C0969,2026-08-02,Refund request,Medium,58,Resolved,,Email,False,Apology
+CS0200,C2732,2025-06-23,Payment issue,High,45,Resolved,,Phone,True,Apology
+CS0201,C1431,2026-08-07,Payment issue,Medium,6,Unresolved,4.0,App,False,Refund
+CS0202,C1582,2025-04-20,Delivery problem,High,72,Unresolved,3.0,App,True,Refund
+CS0203,C3312,2025-02-02,Payment issue,High,48,Unresolved,5.0,Phone,True,Replacement
+CS0204,C1140,2026-05-01,Product complaint,Medium,4,Unresolved,2.0,Social Media,False,Apology
+CS0205,C2477,2026-08-12,Refund request,Medium,19,Unresolved,,Phone,True,Replacement
+CS0206,C0995,2024-09-26,Product complaint,Low,9,Unresolved,,In-Store,False,Apology
+CS0207,C2584,2024-10-27,Customer service complaint,Medium,23,Resolved,,In-Store,False,Replacement
+CS0208,C2781,2025-10-06,Technical problem,High,14,Resolved,1.0,In-Store,False,None
+CS0209,C2895,2024-12-01,Technical problem,Medium,12,Unresolved,4.0,Email,False,Replacement
+CS0210,C0453,2025-09-07,Product complaint,Medium,29,Resolved,,App,False,Apology
+CS0211,C0033,2025-02-15,Payment issue,Low,27,Resolved,1.0,Email,False,Refund
+CS0212,C0664,2025-01-01,Customer service complaint,Medium,27,Resolved,1.0,Social Media,False,Refund
+CS0213,C2347,2025-07-21,Customer service complaint,Low,55,Resolved,2.0,Phone,False,Refund
+CS0214,C2417,2025-10-07,Product complaint,Medium,35,Resolved,5.0,Email,False,Replacement
+CS0215,C2420,2025-11-26,Account issue,High,52,Resolved,,App,False,Apology
+CS0216,C1339,2024-11-15,Product complaint,Low,38,Resolved,,Phone,True,Replacement
+CS0217,C3020,2025-07-09,Technical problem,High,3,Unresolved,,Social Media,True,Apology
+CS0218,C0589,2024-10-26,Account issue,High,17,Resolved,1.0,Email,False,None
+CS0219,C2060,2026-03-14,Payment issue,High,19,Unresolved,3.0,App,False,Apology
+CS0220,C1421,2025-03-08,Refund request,High,35,Resolved,,Phone,False,Refund
+CS0221,C3464,2024-10-04,Account issue,Low,6,Unresolved,3.0,Social Media,True,Apology
+CS0222,C2730,2026-03-05,Customer service complaint,Low,43,Resolved,2.0,Social Media,True,Refund
+CS0223,C1211,2024-12-30,Product complaint,Medium,23,Resolved,5.0,Email,True,Replacement
+CS0224,C3338,2026-02-17,Account issue,Medium,26,Unresolved,,App,False,Apology
+CS0225,C1052,2026-01-09,Customer service complaint,High,45,Resolved,,Social Media,False,Replacement
+CS0226,C1328,2025-02-16,Product complaint,High,56,Resolved,3.0,Social Media,True,Replacement
+CS0227,C0245,2025-02-19,Refund request,High,8,Unresolved,3.0,Phone,False,None
+CS0228,C2070,2024-11-09,Payment issue,Medium,69,Unresolved,5.0,Social Media,True,Refund
+CS0229,C1749,2025-01-31,Product complaint,Low,65,Resolved,2.0,Social Media,False,Apology
+CS0230,C0899,2026-08-07,Product complaint,Medium,9,Resolved,2.0,In-Store,False,None
+CS0231,C0130,2026-02-24,Delivery problem,Medium,6,Unresolved,5.0,Phone,False,Apology
+CS0232,C0409,2026-07-30,Account issue,High,2,Resolved,,In-Store,True,Replacement
+CS0233,C2980,2026-02-16,Delivery problem,Medium,23,Unresolved,,Email,True,Apology
+CS0234,C2542,2025-06-09,Payment issue,High,63,Resolved,1.0,Social Media,True,None
+CS0235,C3082,2026-09-06,Product complaint,Low,24,Resolved,,Phone,True,Replacement
+CS0236,C1946,2025-10-13,Technical problem,High,50,Resolved,1.0,Social Media,False,Refund
+CS0237,C0427,2026-07-14,Product complaint,Low,36,Resolved,2.0,App,False,Replacement
+CS0238,C0921,2025-04-15,Account issue,Medium,5,Resolved,5.0,In-Store,False,Apology
+CS0239,C2612,2025-07-10,Delivery problem,High,47,Resolved,,Phone,True,Refund
+CS0240,C1357,2025-02-17,Delivery problem,High,6,Unresolved,,Phone,False,None
+CS0241,C2721,2026-04-07,Account issue,Low,20,Unresolved,4.0,Phone,False,None
+CS0242,C1964,2025-04-18,Customer service complaint,High,30,Unresolved,2.0,Social Media,False,Apology
+CS0243,C2741,2025-02-04,Product complaint,Medium,68,Resolved,,Phone,False,Apology
+CS0244,C0364,2026-03-03,Technical problem,High,38,Unresolved,2.0,Social Media,True,None
+CS0245,C1382,2026-08-30,Payment issue,Low,10,Resolved,3.0,Phone,False,Apology
+CS0246,C2608,2025-04-30,Account issue,Medium,64,Resolved,3.0,Social Media,True,None
+CS0247,C1339,2025-01-07,Product complaint,Low,44,Unresolved,,In-Store,False,Apology
+CS0248,C1481,2026-06-14,Refund request,Low,16,Unresolved,,Phone,False,None
+CS0249,C0014,2024-12-08,Product complaint,High,17,Resolved,,In-Store,True,None
+CS0250,C2116,2026-05-25,Technical problem,Medium,11,Unresolved,5.0,Phone,False,Apology
+CS0251,C3082,2025-07-02,Account issue,Low,43,Unresolved,,In-Store,False,Apology
+CS0252,C2635,2026-07-31,Payment issue,Low,42,Unresolved,5.0,Email,False,Apology
+CS0253,C0007,2025-06-15,Refund request,High,43,Unresolved,1.0,In-Store,True,Refund
+CS0254,C1580,2026-07-06,Customer service complaint,Medium,4,Resolved,1.0,App,True,Apology
+CS0255,C1683,2025-12-21,Refund request,Low,34,Resolved,3.0,App,True,Refund
+CS0256,C3009,2024-09-20,Refund request,Low,52,Unresolved,,Phone,True,Replacement
+CS0257,C1640,2024-10-12,Customer service complaint,Medium,49,Unresolved,,In-Store,False,Replacement
+CS0258,C1773,2026-09-10,Delivery problem,High,53,Resolved,,In-Store,True,Refund
+CS0259,C3339,2025-12-21,Delivery problem,Medium,69,Resolved,5.0,Phone,True,None
+CS0260,C2810,2025-09-07,Product complaint,High,23,Resolved,3.0,In-Store,True,None
+CS0261,C2246,2025-11-09,Payment issue,Medium,67,Resolved,5.0,Social Media,True,Refund
+CS0262,C0239,2026-09-12,Customer service complaint,High,31,Resolved,4.0,App,True,Apology
+CS0263,C2620,2026-02-15,Delivery problem,Low,11,Unresolved,,Email,True,None
+CS0264,C2464,2026-04-16,Refund request,High,68,Resolved,,App,True,None
+CS0265,C2670,2026-05-08,Payment issue,High,64,Unresolved,2.0,In-Store,False,Replacement
+CS0266,C0709,2025-02-19,Customer service complaint,Low,24,Unresolved,,Social Media,False,None
+CS0267,C2728,2025-02-04,Product complaint,Low,57,Resolved,,Social Media,False,Apology
+CS0268,C0649,2025-04-17,Customer service complaint,Medium,43,Unresolved,5.0,Social Media,True,Apology
+CS0269,C2144,2025-08-07,Account issue,Medium,32,Unresolved,3.0,Social Media,True,None
+CS0270,C0403,2026-01-14,Technical problem,Medium,9,Unresolved,,App,False,Refund
+CS0271,C0294,2026-04-24,Technical problem,Medium,40,Resolved,1.0,Phone,False,None
+CS0272,C3477,2025-03-31,Payment issue,Medium,23,Unresolved,,Email,False,Apology
+CS0273,C1096,2026-06-27,Account issue,Medium,30,Unresolved,4.0,Social Media,True,Refund
+CS0274,C0086,2025-08-18,Account issue,Low,29,Unresolved,,App,False,Refund
+CS0275,C2644,2026-04-09,Refund request,High,41,Resolved,3.0,Social Media,True,None
+CS0276,C2025,2026-01-10,Delivery problem,Medium,45,Unresolved,1.0,Phone,True,Replacement
+CS0277,C2936,2025-10-29,Technical problem,High,55,Resolved,2.0,Social Media,False,Refund
+CS0278,C2294,2025-01-12,Technical problem,Medium,60,Unresolved,,App,True,Replacement
+CS0279,C0623,2026-01-11,Account issue,Low,33,Resolved,2.0,Email,False,Replacement
+CS0280,C3006,2025-10-17,Technical problem,High,3,Unresolved,,Phone,True,Refund
+CS0281,C3485,2026-06-07,Payment issue,High,53,Unresolved,,Social Media,False,None
+CS0282,C2124,2025-02-12,Delivery problem,High,51,Resolved,,In-Store,True,Refund
+CS0283,C1480,2024-12-09,Customer service complaint,Low,53,Unresolved,,In-Store,False,None
+CS0284,C3031,2026-02-24,Refund request,Medium,22,Unresolved,3.0,Social Media,True,Apology
+CS0285,C0891,2026-09-04,Payment issue,High,32,Resolved,,App,True,None
+CS0286,C3343,2025-09-07,Technical problem,Medium,66,Unresolved,3.0,App,False,Replacement
+CS0287,C1849,2026-02-17,Account issue,Medium,21,Unresolved,,App,True,Refund
+CS0288,C0676,2024-12-13,Refund request,High,48,Unresolved,2.0,Phone,False,None
+CS0289,C2534,2026-05-06,Product complaint,High,71,Resolved,,In-Store,False,Refund
+CS0290,C0745,2025-10-22,Customer service complaint,Low,8,Resolved,,In-Store,False,Replacement
+CS0291,C0817,2026-05-03,Payment issue,Medium,57,Resolved,1.0,App,True,None
+CS0292,C2169,2024-12-19,Payment issue,Medium,39,Unresolved,,Phone,True,Refund
+CS0293,C3009,2024-12-17,Product complaint,Low,65,Unresolved,,In-Store,False,Replacement
+CS0294,C0626,2026-04-28,Payment issue,Medium,60,Unresolved,,Phone,True,Replacement
+CS0295,C2530,2024-12-13,Customer service complaint,High,57,Resolved,,Phone,False,Replacement
+CS0296,C2582,2025-01-01,Account issue,High,11,Resolved,,App,False,None
+CS0297,C2019,2025-04-23,Product complaint,Low,69,Resolved,,Social Media,True,None
+CS0298,C2926,2026-01-14,Refund request,Low,11,Resolved,1.0,Email,True,Apology
+CS0299,C1873,2026-02-19,Delivery problem,Low,53,Resolved,,In-Store,False,Replacement
+CS0300,C1542,2026-01-09,Delivery problem,Medium,31,Unresolved,5.0,Phone,False,None
+CS0301,C1734,2025-07-14,Technical problem,High,8,Resolved,,Phone,True,None
+CS0302,C3064,2025-10-09,Customer service complaint,Medium,57,Unresolved,5.0,Email,True,Refund
+CS0303,C3487,2026-03-12,Refund request,Low,34,Unresolved,,In-Store,True,Refund
+CS0304,C2276,2025-06-16,Customer service complaint,High,23,Unresolved,2.0,In-Store,True,Refund
+CS0305,C3172,2026-06-23,Delivery problem,High,57,Resolved,3.0,In-Store,True,Apology
+CS0306,C0998,2026-01-10,Customer service complaint,High,2,Resolved,2.0,Phone,False,None
+CS0307,C0248,2025-06-29,Technical problem,Low,20,Unresolved,,App,True,Replacement
+CS0308,C0981,2026-04-06,Customer service complaint,Medium,14,Unresolved,5.0,Email,True,Replacement
+CS0309,C3128,2026-09-05,Customer service complaint,Low,40,Unresolved,3.0,Email,True,Refund
+CS0310,C2944,2026-04-18,Technical problem,High,41,Unresolved,,Social Media,True,Apology
+CS0311,C2786,2024-11-18,Technical problem,Low,56,Resolved,2.0,App,False,Refund
+CS0312,C1814,2026-01-28,Account issue,High,32,Unresolved,,Social Media,False,None
+CS0313,C2769,2025-09-24,Account issue,Low,40,Resolved,,In-Store,True,Refund
+CS0314,C1471,2026-04-07,Refund request,Low,3,Resolved,,Email,False,Apology
+CS0315,C3272,2026-03-26,Account issue,Low,72,Unresolved,,App,True,Apology
+CS0316,C1911,2026-07-03,Payment issue,High,26,Resolved,4.0,In-Store,False,Refund
+CS0317,C1747,2024-09-26,Payment issue,Low,10,Resolved,,Phone,False,Refund
+CS0318,C0961,2025-05-29,Customer service complaint,Low,23,Resolved,5.0,Email,False,Replacement
+CS0319,C0469,2025-05-15,Refund request,High,58,Resolved,,App,True,Apology
+CS0320,C3454,2026-02-08,Delivery problem,Low,38,Resolved,3.0,Email,False,Apology
+CS0321,C2728,2025-11-30,Product complaint,Medium,69,Resolved,1.0,Social Media,True,Replacement
+CS0322,C0570,2024-11-22,Technical problem,High,62,Unresolved,,App,False,None
+CS0323,C3021,2025-06-11,Delivery problem,High,6,Resolved,,Social Media,True,Apology
+CS0324,C2236,2026-05-11,Customer service complaint,Low,55,Unresolved,3.0,Social Media,False,Refund
+CS0325,C1282,2025-01-04,Payment issue,Medium,16,Unresolved,,App,False,Replacement
+CS0326,C2425,2026-07-28,Customer service complaint,High,50,Resolved,3.0,App,True,Apology
+CS0327,C0046,2024-09-28,Refund request,Medium,25,Resolved,,Social Media,False,Refund
+CS0328,C0630,2024-10-11,Account issue,Medium,52,Resolved,4.0,Social Media,False,Apology
+CS0329,C2163,2024-10-20,Customer service complaint,Low,46,Unresolved,,App,True,Refund
+CS0330,C2772,2026-08-18,Refund request,Low,51,Resolved,,In-Store,False,Apology
+CS0331,C2840,2025-10-03,Technical problem,Medium,8,Unresolved,,Email,False,Replacement
+CS0332,C0454,2026-05-12,Account issue,High,26,Unresolved,2.0,Email,False,Apology
+CS0333,C3053,2025-01-11,Customer service complaint,High,63,Unresolved,5.0,Social Media,True,Apology
+CS0334,C1661,2025-04-26,Account issue,Low,23,Unresolved,,Email,False,Apology
+CS0335,C1347,2024-11-22,Product complaint,Low,59,Unresolved,2.0,In-Store,False,None
+CS0336,C0390,2025-11-11,Technical problem,Medium,51,Resolved,2.0,App,True,Refund
+CS0337,C1432,2025-11-05,Payment issue,High,5,Resolved,1.0,App,True,None
+CS0338,C0218,2026-06-17,Refund request,High,43,Unresolved,,Email,True,Replacement
+CS0339,C1983,2026-05-07,Customer service complaint,Low,71,Resolved,5.0,Social Media,True,Apology
+CS0340,C2546,2025-09-05,Refund request,Low,13,Unresolved,1.0,Social Media,True,Apology
+CS0341,C1358,2025-04-10,Account issue,High,9,Resolved,,App,True,Refund
+CS0342,C0422,2024-12-17,Payment issue,High,22,Unresolved,,Email,True,Replacement
+CS0343,C2438,2026-01-24,Customer service complaint,Medium,12,Resolved,,In-Store,False,Apology
+CS0344,C1602,2025-09-21,Technical problem,Low,15,Unresolved,4.0,In-Store,False,Apology
+CS0345,C0055,2026-01-17,Refund request,Low,36,Resolved,,App,True,None
+CS0346,C3271,2025-01-31,Technical problem,High,50,Resolved,2.0,Email,False,Refund
+CS0347,C0719,2026-02-03,Product complaint,High,33,Unresolved,,Social Media,False,None
+CS0348,C1332,2024-11-04,Payment issue,Low,24,Unresolved,2.0,Phone,False,Apology
+CS0349,C2245,2026-01-10,Product complaint,High,17,Resolved,,Email,False,Replacement
+CS0350,C2953,2025-12-22,Delivery problem,Low,2,Unresolved,4.0,Social Media,True,Replacement
+CS0351,C0159,2025-09-05,Refund request,Low,1,Unresolved,,App,False,Refund
+CS0352,C1671,2026-07-05,Refund request,Medium,34,Unresolved,,Phone,False,Refund
+CS0353,C1213,2025-01-07,Payment issue,Medium,37,Resolved,,Social Media,False,Refund
+CS0354,C0440,2026-08-24,Product complaint,Low,59,Resolved,2.0,Phone,True,None
+CS0355,C2898,2025-05-22,Product complaint,Medium,17,Unresolved,,Phone,True,Refund
+CS0356,C3098,2025-03-01,Account issue,Low,5,Resolved,5.0,App,False,Replacement
+CS0357,C2621,2026-05-12,Account issue,Low,24,Unresolved,,Social Media,True,Replacement
+CS0358,C0738,2026-04-14,Refund request,Low,67,Unresolved,,In-Store,True,Refund
+CS0359,C0710,2024-10-17,Product complaint,Medium,58,Unresolved,4.0,In-Store,True,None
+CS0360,C3053,2026-06-05,Delivery problem,Medium,22,Resolved,5.0,In-Store,False,None
+CS0361,C1999,2026-05-05,Technical problem,Medium,30,Unresolved,,Email,True,Refund
+CS0362,C0144,2024-10-10,Customer service complaint,High,11,Resolved,4.0,App,False,Apology
+CS0363,C1231,2026-05-13,Product complaint,High,32,Unresolved,,Email,False,Apology
+CS0364,C0061,2026-04-21,Account issue,Low,2,Unresolved,5.0,App,True,Replacement
+CS0365,C2272,2026-01-20,Product complaint,Low,1,Unresolved,,In-Store,False,Refund
+CS0366,C1199,2026-05-16,Payment issue,High,64,Resolved,4.0,Social Media,True,Apology
+CS0367,C1791,2025-02-08,Refund request,Medium,23,Resolved,,Social Media,False,None
+CS0368,C0578,2025-05-21,Technical problem,Medium,22,Resolved,2.0,In-Store,False,Refund
+CS0369,C0143,2025-01-11,Delivery problem,High,45,Resolved,3.0,Phone,False,Replacement
+CS0370,C2243,2026-08-29,Product complaint,High,21,Unresolved,,Phone,True,Refund
+CS0371,C1281,2025-11-01,Refund request,Medium,30,Resolved,3.0,Email,False,Replacement
+CS0372,C0549,2026-08-03,Account issue,High,19,Unresolved,5.0,In-Store,True,Refund
+CS0373,C2032,2026-01-12,Customer service complaint,High,63,Resolved,,Social Media,True,Refund
+CS0374,C2431,2025-03-23,Refund request,Low,24,Unresolved,,In-Store,True,Apology
+CS0375,C3300,2025-12-23,Product complaint,Medium,67,Unresolved,3.0,Email,True,Refund
+CS0376,C3343,2025-10-23,Product complaint,Medium,41,Resolved,4.0,App,True,Replacement
+CS0377,C2714,2025-09-28,Refund request,High,46,Resolved,5.0,App,True,Replacement
+CS0378,C1212,2025-06-23,Account issue,Medium,8,Unresolved,5.0,Phone,True,Replacement
+CS0379,C0865,2024-09-18,Refund request,High,32,Resolved,1.0,App,False,Refund
+CS0380,C0285,2026-01-17,Customer service complaint,Low,18,Resolved,,In-Store,True,Refund
+CS0381,C3146,2024-09-21,Account issue,Low,63,Unresolved,3.0,In-Store,True,Replacement
+CS0382,C2624,2026-02-16,Account issue,High,64,Resolved,3.0,Email,True,Apology
+CS0383,C3380,2025-10-05,Delivery problem,Medium,62,Resolved,4.0,Phone,False,Replacement
+CS0384,C0964,2024-12-02,Technical problem,Medium,21,Resolved,4.0,Social Media,False,Apology
+CS0385,C0266,2025-01-10,Technical problem,High,56,Unresolved,,In-Store,False,None
+CS0386,C1518,2026-08-02,Delivery problem,Medium,52,Unresolved,,Phone,True,Replacement
+CS0387,C1845,2024-09-12,Technical problem,High,20,Unresolved,,In-Store,True,None
+CS0388,C2809,2025-09-05,Refund request,Medium,52,Resolved,,Email,False,Apology
+CS0389,C0017,2026-04-29,Customer service complaint,High,39,Resolved,,Social Media,False,Refund
+CS0390,C2957,2025-09-21,Delivery problem,Medium,12,Unresolved,,Phone,False,Apology
+CS0391,C0403,2025-07-27,Account issue,Low,41,Unresolved,,In-Store,True,Apology
+CS0392,C1041,2025-06-10,Account issue,Medium,50,Unresolved,,Social Media,False,Apology
+CS0393,C1778,2024-09-15,Account issue,Medium,7,Resolved,4.0,Phone,True,Replacement
+CS0394,C0030,2025-07-18,Payment issue,High,69,Unresolved,,App,False,Apology
+CS0395,C1708,2026-04-17,Customer service complaint,Low,18,Unresolved,,App,True,Refund
+CS0396,C3356,2025-01-21,Account issue,Low,60,Resolved,3.0,App,False,None
+CS0397,C0570,2026-09-04,Product complaint,Medium,55,Resolved,4.0,App,False,None
+CS0398,C0110,2026-07-28,Payment issue,High,2,Unresolved,1.0,In-Store,True,Replacement
+CS0399,C2421,2026-02-22,Payment issue,High,11,Unresolved,,App,True,None
+CS0400,C0572,2025-08-12,Account issue,Low,46,Resolved,,Social Media,False,Refund
+CS0401,C0036,2026-07-04,Account issue,Medium,15,Resolved,4.0,Email,True,Refund
+CS0402,C0518,2025-11-04,Technical problem,High,33,Resolved,,Phone,False,None
+CS0403,C2853,2026-03-31,Refund request,Low,15,Resolved,,Social Media,True,Replacement
+CS0404,C2222,2025-09-17,Technical problem,Low,49,Unresolved,1.0,Email,True,None
+CS0405,C0086,2026-05-17,Technical problem,High,12,Unresolved,1.0,App,True,Replacement
+CS0406,C2224,2026-02-16,Delivery problem,Medium,59,Unresolved,2.0,App,True,Apology
+CS0407,C2467,2024-12-06,Customer service complaint,Low,33,Unresolved,2.0,Social Media,True,Refund
+CS0408,C0396,2025-10-06,Account issue,Medium,55,Resolved,,App,True,Replacement
+CS0409,C3471,2025-07-04,Customer service complaint,Medium,12,Unresolved,,Phone,True,Replacement
+CS0410,C1049,2025-11-09,Refund request,Medium,42,Unresolved,,Social Media,True,Replacement
+CS0411,C1144,2026-06-24,Delivery problem,Medium,27,Unresolved,2.0,App,True,Refund
+CS0412,C2745,2025-08-10,Payment issue,High,28,Unresolved,,App,True,Apology
+CS0413,C3469,2024-12-22,Account issue,Low,50,Resolved,,Social Media,True,Replacement
+CS0414,C3034,2025-04-28,Customer service complaint,High,22,Unresolved,,Email,False,Apology
+CS0415,C3133,2024-12-18,Account issue,Low,21,Unresolved,1.0,In-Store,False,Refund
+CS0416,C1991,2025-08-29,Customer service complaint,Medium,24,Resolved,,Social Media,True,Apology
+CS0417,C0491,2026-01-05,Delivery problem,Medium,25,Resolved,,Phone,False,None
+CS0418,C1041,2025-07-26,Refund request,Low,30,Resolved,3.0,Social Media,True,Apology
+CS0419,C1592,2025-03-21,Account issue,High,19,Resolved,,App,True,None
+CS0420,C3219,2025-07-27,Product complaint,Low,4,Unresolved,1.0,In-Store,False,None
+CS0421,C2582,2024-09-17,Product complaint,High,16,Unresolved,4.0,App,True,Replacement
+CS0422,C0457,2025-09-30,Refund request,High,42,Resolved,2.0,Phone,False,Refund
+CS0423,C3385,2026-04-05,Product complaint,Low,1,Resolved,5.0,App,False,None
+CS0424,C1316,2024-10-29,Delivery problem,High,18,Resolved,5.0,In-Store,False,Replacement
+CS0425,C0335,2026-06-28,Product complaint,Medium,49,Unresolved,,Email,False,None
+CS0426,C2459,2026-05-22,Product complaint,Medium,61,Unresolved,3.0,Email,False,None
+CS0427,C1850,2026-07-07,Product complaint,High,20,Resolved,,App,True,None
+CS0428,C2598,2025-01-22,Product complaint,Medium,52,Resolved,4.0,In-Store,True,Apology
+CS0429,C3391,2025-05-14,Account issue,Medium,34,Unresolved,,App,True,None
+CS0430,C0237,2024-09-17,Refund request,Medium,44,Unresolved,2.0,Phone,True,None
+CS0431,C1988,2025-04-08,Technical problem,Low,43,Unresolved,1.0,Phone,False,Refund
+CS0432,C0859,2025-11-11,Delivery problem,High,32,Resolved,4.0,Social Media,False,Replacement
+CS0433,C1673,2025-12-03,Refund request,High,64,Unresolved,,Social Media,True,None
+CS0434,C3186,2025-03-24,Product complaint,High,33,Resolved,1.0,Phone,True,Replacement
+CS0435,C1189,2025-04-06,Technical problem,Low,37,Unresolved,,Email,True,Refund
+CS0436,C1707,2025-03-28,Customer service complaint,High,10,Unresolved,,In-Store,False,Apology
+CS0437,C1956,2025-11-28,Product complaint,High,43,Unresolved,4.0,Email,False,Replacement
+CS0438,C1343,2025-12-26,Refund request,Low,3,Resolved,,In-Store,False,Apology
+CS0439,C1057,2025-06-23,Account issue,Low,55,Unresolved,4.0,App,False,Refund
+CS0440,C2440,2026-02-02,Product complaint,High,39,Unresolved,,Email,False,Refund
+CS0441,C1361,2024-09-13,Account issue,Medium,54,Resolved,2.0,App,False,Refund
+CS0442,C2768,2026-04-16,Product complaint,High,16,Resolved,2.0,App,False,Replacement
+CS0443,C0683,2026-01-10,Technical problem,Medium,7,Resolved,1.0,App,True,Refund
+CS0444,C2986,2025-08-24,Customer service complaint,High,19,Resolved,,In-Store,False,Replacement
+CS0445,C1686,2025-02-03,Product complaint,Low,32,Unresolved,,Email,False,Apology
+CS0446,C2021,2026-02-10,Refund request,High,64,Resolved,1.0,App,True,Replacement
+CS0447,C1015,2024-11-18,Customer service complaint,High,34,Unresolved,5.0,Social Media,False,Replacement
+CS0448,C0710,2025-12-29,Customer service complaint,Medium,5,Resolved,,Social Media,True,Replacement
+CS0449,C0036,2026-05-27,Technical problem,High,46,Resolved,,In-Store,False,None
+CS0450,C1332,2026-05-14,Account issue,High,19,Resolved,,Email,True,Refund
+CS0451,C2595,2024-11-07,Customer service complaint,High,59,Resolved,5.0,App,True,Refund
+CS0452,C0834,2025-06-25,Delivery problem,Low,9,Unresolved,1.0,In-Store,False,Replacement
+CS0453,C1974,2025-06-17,Account issue,Medium,51,Unresolved,5.0,App,True,None
+CS0454,C3126,2026-02-18,Delivery problem,Low,39,Unresolved,,In-Store,False,None
+CS0455,C2804,2024-09-23,Product complaint,Low,20,Resolved,,Social Media,False,None
+CS0456,C3415,2024-12-21,Account issue,High,28,Unresolved,,In-Store,True,Apology
+CS0457,C0495,2025-02-13,Delivery problem,Medium,17,Unresolved,,In-Store,True,Refund
+CS0458,C2421,2024-12-04,Payment issue,Low,51,Resolved,2.0,Email,True,Replacement
+CS0459,C2684,2024-12-08,Product complaint,High,41,Unresolved,1.0,App,True,None
+CS0460,C1025,2025-02-15,Technical problem,Medium,36,Unresolved,,Phone,False,Apology
+CS0461,C1732,2025-01-10,Payment issue,Low,60,Unresolved,4.0,App,False,Refund
+CS0462,C2641,2025-12-11,Delivery problem,Low,66,Unresolved,,Social Media,False,Refund
+CS0463,C3485,2026-08-02,Refund request,Low,27,Unresolved,,Email,False,Replacement
+CS0464,C0869,2026-05-01,Product complaint,High,71,Unresolved,,In-Store,True,None
+CS0465,C1432,2025-08-07,Delivery problem,Low,12,Resolved,5.0,Social Media,False,Refund
+CS0466,C0508,2026-07-10,Technical problem,High,53,Unresolved,,Email,False,Apology
+CS0467,C2625,2025-09-29,Delivery problem,High,64,Unresolved,,App,False,Refund
+CS0468,C0305,2024-10-16,Account issue,Medium,13,Resolved,1.0,Social Media,False,Refund
+CS0469,C1324,2025-05-26,Payment issue,Low,11,Resolved,,In-Store,False,Replacement
+CS0470,C1367,2026-05-24,Refund request,Medium,27,Unresolved,5.0,App,False,Replacement
+CS0471,C2231,2026-07-01,Refund request,High,47,Resolved,3.0,App,False,Refund
+CS0472,C0625,2026-04-25,Product complaint,Medium,64,Resolved,5.0,Email,True,Replacement
+CS0473,C0431,2024-10-30,Account issue,Medium,71,Unresolved,4.0,Phone,False,None
+CS0474,C0884,2025-02-13,Payment issue,Medium,11,Unresolved,3.0,Email,True,Replacement
+CS0475,C1390,2024-12-22,Product complaint,Medium,66,Resolved,4.0,App,True,Replacement
+CS0476,C1160,2026-06-05,Product complaint,Low,46,Resolved,,Email,True,None
+CS0477,C0676,2026-08-17,Customer service complaint,Low,61,Unresolved,,In-Store,True,Apology
+CS0478,C2771,2025-04-14,Customer service complaint,Low,12,Unresolved,5.0,In-Store,True,None
+CS0479,C1751,2025-01-18,Customer service complaint,Medium,70,Resolved,3.0,Phone,False,Replacement
+CS0480,C0607,2026-02-17,Payment issue,Medium,52,Resolved,,Phone,True,Refund
+CS0481,C0354,2026-01-31,Account issue,High,34,Resolved,4.0,In-Store,True,Replacement
+CS0482,C0077,2026-09-04,Customer service complaint,Medium,10,Resolved,3.0,Social Media,True,Replacement
+CS0483,C3119,2025-12-14,Refund request,High,11,Resolved,3.0,App,True,Refund
+CS0484,C1810,2024-09-18,Technical problem,High,69,Resolved,,Email,True,Replacement
+CS0485,C3103,2026-08-31,Delivery problem,Low,22,Resolved,,Social Media,True,None
+CS0486,C0332,2025-02-13,Account issue,Low,39,Unresolved,1.0,App,True,Apology
+CS0487,C2441,2026-06-28,Refund request,High,58,Unresolved,,Social Media,True,Apology
+CS0488,C3092,2025-04-27,Delivery problem,Medium,59,Resolved,1.0,In-Store,True,Replacement
+CS0489,C3250,2024-09-23,Account issue,Medium,20,Unresolved,,Social Media,False,None
+CS0490,C2315,2025-08-31,Delivery problem,High,26,Unresolved,1.0,In-Store,True,Refund
+CS0491,C0398,2025-12-15,Product complaint,High,59,Resolved,,Phone,True,Apology
+CS0492,C0081,2025-09-15,Technical problem,High,52,Resolved,,Social Media,False,Refund
+CS0493,C0532,2025-11-22,Account issue,Medium,4,Resolved,,Social Media,True,Refund
+CS0494,C0527,2026-06-30,Account issue,Low,23,Resolved,5.0,App,True,None
+CS0495,C2420,2024-12-07,Delivery problem,High,62,Resolved,4.0,Email,True,Replacement
+CS0496,C1415,2026-05-10,Technical problem,High,66,Unresolved,3.0,Phone,False,Refund
+CS0497,C0849,2025-11-11,Account issue,Low,18,Unresolved,,Phone,True,Apology
+CS0498,C2366,2025-07-06,Customer service complaint,High,9,Unresolved,,Social Media,False,Apology
+CS0499,C1580,2025-11-05,Payment issue,Low,9,Resolved,1.0,Social Media,True,Apology
+CS0500,C0573,2025-05-13,Product complaint,High,37,Unresolved,,In-Store,False,None
+CS0501,C3151,2026-04-06,Refund request,Low,72,Unresolved,1.0,Social Media,False,None
+CS0502,C2701,2026-07-23,Technical problem,Low,4,Unresolved,5.0,Email,True,None
+CS0503,C2563,2025-11-02,Technical problem,Medium,14,Unresolved,5.0,In-Store,True,None
+CS0504,C1510,2025-09-04,Customer service complaint,High,34,Unresolved,,Social Media,True,Replacement
+CS0505,C0303,2026-04-28,Product complaint,Low,54,Unresolved,4.0,Social Media,True,None
+CS0506,C2799,2025-08-20,Customer service complaint,Low,50,Resolved,1.0,Phone,True,None
+CS0507,C2457,2025-09-01,Delivery problem,High,68,Resolved,1.0,Phone,True,Replacement
+CS0508,C2855,2024-12-30,Product complaint,Medium,66,Resolved,,Social Media,False,Replacement
+CS0509,C1439,2024-12-22,Delivery problem,High,18,Unresolved,5.0,Phone,False,Apology
+CS0510,C1159,2026-06-29,Account issue,Low,67,Resolved,,App,True,Replacement
+CS0511,C3075,2026-02-15,Account issue,High,38,Unresolved,3.0,Phone,True,Replacement
+CS0512,C1301,2025-02-20,Delivery problem,Medium,51,Resolved,1.0,App,False,None
+CS0513,C2598,2026-02-20,Refund request,Medium,49,Unresolved,,App,False,Refund
+CS0514,C2981,2025-04-02,Technical problem,Medium,60,Resolved,4.0,Email,True,Refund
+CS0515,C0013,2025-02-15,Payment issue,High,4,Resolved,,Social Media,True,None
+CS0516,C1107,2026-04-23,Payment issue,Low,34,Resolved,5.0,Phone,True,Replacement
+CS0517,C1660,2026-02-18,Delivery problem,Low,45,Resolved,,App,True,Apology
+CS0518,C3415,2026-07-20,Technical problem,Low,41,Unresolved,,In-Store,False,Replacement
+CS0519,C0788,2024-11-06,Payment issue,Low,5,Resolved,,Phone,True,None
+CS0520,C2576,2025-04-24,Refund request,Medium,29,Resolved,,Social Media,False,Replacement
+CS0521,C1029,2025-09-22,Payment issue,Medium,67,Resolved,,Phone,True,Refund
+CS0522,C1763,2025-04-10,Technical problem,High,46,Unresolved,4.0,Email,True,Apology
+CS0523,C0574,2025-07-31,Customer service complaint,Medium,43,Unresolved,,In-Store,True,Replacement
+CS0524,C2627,2025-07-15,Refund request,Medium,38,Resolved,,Email,True,None
+CS0525,C0372,2025-12-02,Technical problem,Low,25,Resolved,4.0,In-Store,False,None
+CS0526,C2929,2024-11-25,Refund request,Medium,67,Unresolved,5.0,Phone,True,Replacement
+CS0527,C1511,2025-03-30,Product complaint,Low,54,Unresolved,,Phone,False,Apology
+CS0528,C2774,2025-04-06,Delivery problem,High,11,Unresolved,,App,False,Apology
+CS0529,C0169,2025-05-16,Customer service complaint,High,9,Unresolved,4.0,Email,False,Refund
+CS0530,C1826,2024-11-20,Product complaint,High,7,Unresolved,,Social Media,False,Replacement
+CS0531,C1586,2025-05-01,Refund request,Medium,62,Unresolved,,Email,False,Apology
+CS0532,C3110,2026-01-15,Refund request,High,22,Resolved,2.0,In-Store,False,Apology
+CS0533,C2821,2026-04-26,Delivery problem,High,56,Unresolved,3.0,In-Store,False,Replacement
+CS0534,C0915,2026-05-27,Delivery problem,Low,7,Unresolved,1.0,Email,False,Replacement
+CS0535,C3379,2025-03-27,Customer service complaint,Medium,27,Resolved,3.0,Social Media,False,None
+CS0536,C1633,2025-01-19,Delivery problem,Low,29,Resolved,,App,False,Apology
+CS0537,C0452,2026-05-01,Product complaint,Medium,22,Unresolved,,In-Store,True,Apology
+CS0538,C0708,2025-10-18,Refund request,Low,6,Unresolved,5.0,Phone,True,None
+CS0539,C2471,2025-10-29,Account issue,High,5,Unresolved,,Social Media,False,Apology
+CS0540,C0155,2025-06-20,Refund request,High,48,Resolved,1.0,Social Media,True,Replacement
+CS0541,C2257,2024-10-20,Delivery problem,Low,71,Unresolved,1.0,App,True,Replacement
+CS0542,C0174,2025-11-08,Delivery problem,Medium,46,Resolved,,App,True,Apology
+CS0543,C0680,2025-02-08,Refund request,Medium,52,Resolved,,Phone,False,Refund
+CS0544,C2351,2025-12-04,Customer service complaint,High,29,Unresolved,3.0,Social Media,True,Refund
+CS0545,C2330,2026-03-15,Customer service complaint,High,49,Unresolved,5.0,Email,True,Apology
+CS0546,C0681,2025-09-29,Refund request,Medium,47,Unresolved,4.0,Phone,True,Apology
+CS0547,C0508,2025-07-01,Technical problem,Low,1,Resolved,,Email,True,Replacement
+CS0548,C1234,2024-11-13,Refund request,Medium,40,Resolved,,Social Media,True,Replacement
+CS0549,C0937,2025-01-05,Payment issue,Low,25,Unresolved,,Social Media,True,Replacement
+CS0550,C1154,2025-05-03,Delivery problem,Low,21,Unresolved,,Social Media,True,Refund
+CS0551,C1120,2025-01-09,Payment issue,Medium,13,Unresolved,,In-Store,True,None
+CS0552,C2511,2025-09-20,Delivery problem,Medium,58,Resolved,,In-Store,True,Refund
+CS0553,C2463,2024-12-30,Technical problem,Medium,7,Resolved,2.0,App,True,Apology
+CS0554,C1851,2026-02-02,Delivery problem,Low,31,Unresolved,,In-Store,False,Replacement
+CS0555,C2725,2025-12-15,Technical problem,Medium,12,Resolved,,Email,True,Refund
+CS0556,C2914,2024-10-19,Delivery problem,Low,72,Resolved,1.0,Phone,True,Replacement
+CS0557,C0862,2025-10-08,Product complaint,Medium,50,Unresolved,,App,True,Replacement
+CS0558,C0249,2025-04-21,Payment issue,Low,55,Unresolved,,Social Media,True,Refund
+CS0559,C2434,2025-05-30,Product complaint,Low,49,Unresolved,1.0,In-Store,False,Refund
+CS0560,C0922,2025-07-29,Customer service complaint,High,44,Unresolved,,Email,True,Replacement
+CS0561,C3456,2026-01-20,Payment issue,Medium,70,Resolved,,Email,False,Replacement
+CS0562,C3296,2026-06-06,Payment issue,High,25,Resolved,3.0,Social Media,True,Refund
+CS0563,C0402,2025-06-11,Account issue,High,52,Resolved,,In-Store,False,None
+CS0564,C1435,2026-04-27,Payment issue,Medium,33,Unresolved,,App,True,Apology
+CS0565,C0614,2025-04-01,Payment issue,High,42,Unresolved,,In-Store,False,None
+CS0566,C2464,2025-09-16,Refund request,Low,68,Unresolved,,In-Store,False,Replacement
+CS0567,C1516,2026-01-18,Payment issue,High,67,Resolved,4.0,Social Media,False,Apology
+CS0568,C2375,2025-12-16,Technical problem,Low,59,Unresolved,,App,False,Refund
+CS0569,C0166,2026-07-29,Delivery problem,High,22,Unresolved,,App,True,Replacement
+CS0570,C0129,2025-04-16,Payment issue,Low,48,Resolved,,In-Store,False,Apology
+CS0571,C0821,2024-10-09,Account issue,High,32,Unresolved,2.0,App,False,None
+CS0572,C1519,2026-07-16,Product complaint,High,57,Unresolved,,Social Media,True,Refund
+CS0573,C2520,2025-12-27,Customer service complaint,Low,27,Unresolved,,In-Store,False,Apology
+CS0574,C0183,2024-09-21,Technical problem,Low,67,Unresolved,3.0,Social Media,False,None
+CS0575,C2135,2025-12-09,Product complaint,Low,16,Resolved,,Email,False,None
+CS0576,C2024,2025-02-10,Delivery problem,Medium,65,Unresolved,,Email,True,None
+CS0577,C0122,2026-07-02,Customer service complaint,Medium,16,Resolved,4.0,Social Media,False,Refund
+CS0578,C2032,2025-06-23,Technical problem,High,62,Unresolved,,Email,True,Replacement
+CS0579,C0686,2025-01-03,Refund request,Low,3,Unresolved,5.0,App,True,Replacement
+CS0580,C2725,2025-02-10,Technical problem,Low,4,Resolved,2.0,App,True,Refund
+CS0581,C2648,2025-12-06,Technical problem,Medium,40,Resolved,,Social Media,False,Apology
+CS0582,C2180,2025-07-15,Technical problem,Low,57,Unresolved,,App,True,Replacement
+CS0583,C2466,2026-03-27,Product complaint,Low,63,Unresolved,,Social Media,True,Refund
+CS0584,C0253,2026-03-25,Account issue,High,62,Resolved,,Social Media,True,Replacement
+CS0585,C3281,2025-12-01,Customer service complaint,Medium,46,Resolved,2.0,Social Media,False,None
+CS0586,C2587,2025-05-15,Technical problem,Medium,33,Resolved,,In-Store,False,Replacement
+CS0587,C1331,2024-10-01,Customer service complaint,High,13,Resolved,3.0,In-Store,True,Replacement
+CS0588,C1101,2025-01-05,Technical problem,Low,40,Resolved,5.0,App,True,Apology
+CS0589,C0084,2026-07-17,Technical problem,Low,33,Resolved,,Social Media,True,None
+CS0590,C0644,2026-08-15,Customer service complaint,Medium,14,Resolved,,Social Media,True,Apology
+CS0591,C1675,2026-05-20,Technical problem,Low,59,Unresolved,2.0,Email,False,None
+CS0592,C0026,2025-10-09,Account issue,Medium,15,Resolved,,App,False,Apology
+CS0593,C0120,2026-04-28,Delivery problem,High,69,Unresolved,4.0,Email,True,None
+CS0594,C2058,2026-05-20,Payment issue,Low,60,Resolved,,In-Store,True,Apology
+CS0595,C1957,2025-04-30,Refund request,Medium,68,Unresolved,2.0,Email,False,Replacement
+CS0596,C2859,2026-09-07,Delivery problem,High,23,Unresolved,,Email,False,Apology
+CS0597,C1402,2026-02-08,Customer service complaint,Low,41,Unresolved,2.0,In-Store,True,Apology
+CS0598,C2364,2025-03-05,Technical problem,Medium,43,Resolved,,Phone,True,Replacement
+CS0599,C0937,2025-08-17,Payment issue,High,60,Resolved,5.0,In-Store,False,None
+CS0600,C0193,2025-12-04,Payment issue,Low,16,Unresolved,,In-Store,True,Replacement
+CS0601,C1438,2026-03-07,Customer service complaint,Medium,67,Unresolved,5.0,Email,False,Refund
+CS0602,C1972,2026-02-07,Refund request,Low,47,Unresolved,2.0,Email,False,None
+CS0603,C1267,2026-01-01,Product complaint,Medium,50,Resolved,,Email,False,None
+CS0604,C2655,2026-08-01,Technical problem,High,41,Unresolved,2.0,Phone,False,Apology
+CS0605,C1161,2025-06-17,Account issue,Low,62,Unresolved,,Email,False,None
+CS0606,C3305,2025-08-21,Product complaint,Medium,56,Resolved,,In-Store,True,Refund
+CS0607,C3411,2025-02-20,Account issue,Low,69,Resolved,,Phone,True,None
+CS0608,C1506,2024-10-04,Account issue,Medium,64,Unresolved,,Social Media,True,Apology
+CS0609,C0375,2025-06-20,Product complaint,Low,22,Unresolved,1.0,Social Media,True,Replacement
+CS0610,C0746,2026-01-17,Account issue,Low,47,Resolved,5.0,Phone,True,Apology
+CS0611,C3439,2025-03-24,Account issue,High,46,Unresolved,,In-Store,True,Replacement
+CS0612,C0355,2025-11-25,Payment issue,Medium,1,Unresolved,3.0,Phone,True,None
+CS0613,C2801,2025-07-12,Technical problem,Low,12,Resolved,,Phone,True,Apology
+CS0614,C2865,2025-04-03,Product complaint,High,40,Resolved,3.0,Social Media,True,Replacement
+CS0615,C0505,2025-03-24,Payment issue,High,27,Unresolved,,Phone,True,None
+CS0616,C1988,2025-04-02,Product complaint,Low,15,Unresolved,,Social Media,True,None
+CS0617,C0346,2025-08-17,Payment issue,High,18,Unresolved,,Phone,False,Refund
+CS0618,C0034,2025-10-11,Technical problem,Low,5,Unresolved,3.0,Social Media,True,Replacement
+CS0619,C1163,2026-05-22,Technical problem,Low,66,Unresolved,,App,False,Refund
+CS0620,C1379,2026-01-06,Technical problem,High,65,Resolved,4.0,App,False,None
+CS0621,C1950,2026-05-25,Refund request,Medium,59,Unresolved,,Email,True,Refund
+CS0622,C2553,2025-11-28,Refund request,Low,33,Resolved,,App,True,Apology
+CS0623,C2740,2025-10-05,Customer service complaint,Low,64,Resolved,4.0,In-Store,False,None
+CS0624,C3402,2026-05-07,Delivery problem,High,53,Resolved,2.0,Phone,True,Refund
+CS0625,C3291,2026-01-17,Customer service complaint,Medium,59,Resolved,5.0,Phone,False,None
+CS0626,C2489,2025-06-16,Technical problem,Low,30,Unresolved,3.0,Social Media,False,Refund
+CS0627,C0251,2026-09-03,Delivery problem,Medium,56,Resolved,,Social Media,False,Apology
+CS0628,C2336,2025-02-04,Account issue,Low,35,Resolved,5.0,Phone,False,Replacement
+CS0629,C1973,2026-02-19,Technical problem,Low,38,Unresolved,,App,True,Apology
+CS0630,C1627,2026-03-13,Refund request,High,15,Unresolved,,App,True,Apology
+CS0631,C2558,2025-10-08,Product complaint,Low,54,Unresolved,5.0,App,False,None
+CS0632,C1886,2024-12-30,Product complaint,Medium,59,Resolved,,Email,True,None
+CS0633,C2611,2025-03-18,Account issue,Low,35,Unresolved,,Email,True,Replacement
+CS0634,C3374,2025-11-15,Product complaint,Medium,53,Unresolved,1.0,App,True,None
+CS0635,C3282,2025-06-28,Delivery problem,Low,49,Unresolved,2.0,In-Store,True,Replacement
+CS0636,C0128,2025-03-02,Account issue,High,6,Resolved,,Phone,True,Refund
+CS0637,C3309,2026-06-27,Refund request,High,66,Resolved,4.0,In-Store,False,Refund
+CS0638,C2362,2025-05-17,Customer service complaint,Medium,4,Resolved,1.0,Phone,False,Apology
+CS0639,C2749,2025-04-10,Product complaint,Low,66,Resolved,,Social Media,True,Refund
+CS0640,C3457,2025-10-10,Customer service complaint,Medium,22,Unresolved,,Email,True,Refund
+CS0641,C1941,2026-05-09,Account issue,Medium,8,Unresolved,5.0,Social Media,True,Replacement
+CS0642,C1712,2026-05-27,Refund request,High,71,Unresolved,5.0,In-Store,True,None
+CS0643,C0902,2025-12-02,Customer service complaint,Low,11,Resolved,4.0,Email,False,Apology
+CS0644,C1967,2025-12-26,Delivery problem,High,60,Resolved,,Email,True,Replacement
+CS0645,C1762,2026-02-16,Delivery problem,Medium,33,Resolved,,App,False,Refund
+CS0646,C2776,2025-04-06,Refund request,Low,17,Resolved,5.0,Phone,True,Replacement
+CS0647,C2522,2025-12-12,Customer service complaint,Low,58,Resolved,,App,True,None
+CS0648,C2410,2026-09-02,Technical problem,Medium,54,Unresolved,,Email,False,Replacement
+CS0649,C2214,2025-01-08,Product complaint,Low,68,Resolved,,Email,False,None
+CS0650,C0998,2024-10-29,Product complaint,Low,58,Resolved,,Phone,True,Replacement
+CS0651,C0972,2026-05-04,Delivery problem,High,45,Resolved,2.0,App,True,Refund
+CS0652,C0819,2025-05-18,Product complaint,Medium,31,Resolved,,App,False,None
+CS0653,C2646,2026-05-31,Refund request,High,19,Unresolved,,Phone,True,Refund
+CS0654,C1867,2026-02-25,Customer service complaint,Medium,19,Unresolved,3.0,App,False,None
+CS0655,C1116,2024-11-13,Customer service complaint,High,31,Resolved,,Email,False,Refund
+CS0656,C3270,2024-10-21,Technical problem,Low,4,Resolved,,Social Media,True,Replacement
+CS0657,C3405,2025-11-18,Account issue,High,55,Resolved,1.0,In-Store,False,None
+CS0658,C2349,2025-04-14,Account issue,High,36,Unresolved,5.0,App,False,Apology
+CS0659,C1668,2026-04-10,Customer service complaint,Medium,68,Unresolved,,In-Store,True,None
+CS0660,C0573,2026-05-08,Refund request,High,1,Unresolved,,App,False,None
+CS0661,C0494,2026-08-11,Customer service complaint,High,1,Unresolved,,App,True,Replacement
+CS0662,C2737,2025-01-26,Product complaint,Medium,14,Resolved,3.0,App,False,Apology
+CS0663,C1822,2024-10-02,Refund request,Low,17,Unresolved,1.0,In-Store,False,None
+CS0664,C1957,2025-02-24,Product complaint,High,6,Resolved,,App,False,Replacement
+CS0665,C3442,2024-11-27,Product complaint,Low,29,Unresolved,2.0,Social Media,False,Refund
+CS0666,C1205,2026-05-29,Refund request,Medium,71,Resolved,,In-Store,True,None
+CS0667,C3063,2025-09-21,Product complaint,Medium,38,Unresolved,3.0,Email,True,Refund
+CS0668,C0808,2024-09-21,Product complaint,High,51,Unresolved,4.0,In-Store,False,None
+CS0669,C2589,2025-09-15,Account issue,Low,20,Resolved,,Email,True,Replacement
+CS0670,C2402,2026-05-22,Refund request,Low,46,Unresolved,5.0,Phone,True,Replacement
+CS0671,C2191,2025-01-30,Customer service complaint,Medium,15,Resolved,,Email,False,Refund
+CS0672,C2279,2026-02-25,Payment issue,Medium,34,Unresolved,,App,True,None
+CS0673,C1606,2026-03-11,Customer service complaint,Medium,53,Unresolved,,Email,False,Replacement
+CS0674,C2892,2026-07-07,Refund request,Medium,16,Resolved,,App,False,None
+CS0675,C1660,2026-02-28,Payment issue,High,59,Resolved,,In-Store,True,None
+CS0676,C0555,2024-09-14,Delivery problem,Low,59,Resolved,,In-Store,False,Refund
+CS0677,C1218,2025-06-07,Account issue,Medium,66,Unresolved,,Social Media,False,Refund
+CS0678,C2092,2026-05-08,Product complaint,Low,10,Unresolved,3.0,App,True,Refund
+CS0679,C1773,2026-02-26,Delivery problem,Medium,26,Unresolved,3.0,Phone,True,None
+CS0680,C1323,2025-03-12,Account issue,Low,44,Unresolved,1.0,Social Media,False,Apology
+CS0681,C3451,2025-05-17,Technical problem,Low,31,Resolved,5.0,Email,False,Replacement
+CS0682,C1408,2026-01-17,Payment issue,High,36,Unresolved,2.0,Email,True,Replacement
+CS0683,C2603,2026-06-16,Customer service complaint,Low,35,Resolved,4.0,Email,True,Apology
+CS0684,C2099,2024-11-25,Account issue,High,8,Resolved,,In-Store,True,Refund
+CS0685,C1511,2026-05-02,Refund request,High,6,Resolved,,App,True,Replacement
+CS0686,C2454,2026-07-11,Technical problem,Medium,18,Resolved,3.0,In-Store,False,Refund
+CS0687,C0733,2025-04-17,Refund request,Medium,31,Resolved,2.0,App,True,Refund
+CS0688,C3409,2025-03-31,Delivery problem,High,53,Unresolved,,Social Media,False,Apology
+CS0689,C0748,2024-10-18,Product complaint,Medium,55,Unresolved,2.0,App,False,Apology
+CS0690,C1725,2026-08-16,Technical problem,High,9,Resolved,,In-Store,False,None
+CS0691,C1326,2025-11-24,Refund request,Medium,71,Unresolved,,Phone,False,Replacement
+CS0692,C0323,2025-05-14,Refund request,Low,51,Unresolved,,Email,True,None
+CS0693,C1557,2025-06-27,Payment issue,High,54,Unresolved,,Phone,False,None
+CS0694,C1178,2025-12-15,Customer service complaint,Low,61,Unresolved,,App,True,Replacement
+CS0695,C2244,2026-08-04,Payment issue,Low,9,Resolved,3.0,Social Media,False,Replacement
+CS0696,C2923,2026-03-04,Product complaint,High,19,Resolved,,App,False,None
+CS0697,C3421,2026-07-31,Account issue,Low,26,Resolved,,Email,False,None
+CS0698,C0072,2025-09-28,Delivery problem,Medium,56,Unresolved,,Email,True,Apology
+CS0699,C1852,2026-04-03,Technical problem,Medium,69,Unresolved,3.0,Social Media,False,Apology
+CS0700,C0039,2025-11-01,Refund request,Medium,57,Resolved,3.0,Email,False,Refund
+CS0701,C3181,2025-12-08,Technical problem,Medium,46,Unresolved,,Social Media,True,None
+CS0702,C0178,2025-07-28,Technical problem,Low,26,Unresolved,,Social Media,False,None
+CS0703,C1143,2026-02-19,Delivery problem,Medium,54,Resolved,,App,True,None
+CS0704,C1814,2025-06-05,Customer service complaint,Medium,21,Resolved,3.0,In-Store,False,None
+CS0705,C0450,2025-12-25,Technical problem,Medium,14,Unresolved,3.0,Social Media,False,Refund
+CS0706,C1727,2024-09-14,Product complaint,Medium,59,Unresolved,,In-Store,True,Refund
+CS0707,C1697,2025-11-01,Technical problem,Low,36,Resolved,,In-Store,False,Apology
+CS0708,C0908,2026-08-18,Delivery problem,Medium,70,Resolved,,Email,True,None
+CS0709,C1518,2025-05-14,Account issue,Medium,30,Resolved,,Email,True,Refund
+CS0710,C0736,2025-08-15,Product complaint,Medium,18,Unresolved,5.0,Email,False,Refund
+CS0711,C2940,2024-12-04,Account issue,Low,39,Resolved,1.0,Phone,True,Replacement
+CS0712,C0463,2026-04-30,Customer service complaint,Low,59,Resolved,2.0,App,False,Refund
+CS0713,C0756,2026-02-05,Technical problem,Low,27,Unresolved,3.0,App,True,Apology
+CS0714,C1292,2026-05-14,Product complaint,Low,43,Unresolved,2.0,Social Media,True,Refund
+CS0715,C3481,2025-11-17,Refund request,Medium,69,Resolved,,Social Media,False,Replacement
+CS0716,C0071,2025-01-11,Delivery problem,Low,43,Resolved,2.0,In-Store,True,None
+CS0717,C1398,2024-11-25,Account issue,Medium,40,Unresolved,,Phone,True,Replacement
+CS0718,C1049,2024-12-27,Customer service complaint,Medium,14,Unresolved,3.0,In-Store,False,Replacement
+CS0719,C1570,2024-12-15,Customer service complaint,High,26,Unresolved,3.0,Phone,False,Apology
+CS0720,C0359,2026-06-14,Customer service complaint,Low,57,Resolved,2.0,Phone,True,Apology
+CS0721,C2623,2026-08-05,Customer service complaint,Medium,59,Unresolved,2.0,Social Media,True,None
+CS0722,C3365,2025-04-14,Delivery problem,Medium,63,Unresolved,4.0,App,False,None
+CS0723,C2755,2026-03-13,Payment issue,Medium,26,Unresolved,4.0,Email,False,Replacement
+CS0724,C3256,2024-12-06,Payment issue,High,18,Resolved,,Social Media,False,Replacement
+CS0725,C1584,2026-01-31,Account issue,Low,40,Resolved,,In-Store,True,Refund
+CS0726,C1971,2025-05-15,Customer service complaint,High,46,Resolved,,App,False,Apology
+CS0727,C0745,2026-04-12,Payment issue,Low,38,Unresolved,,In-Store,True,Apology
+CS0728,C3127,2024-12-22,Product complaint,High,32,Unresolved,,Phone,True,Replacement
+CS0729,C2846,2025-12-20,Delivery problem,Low,61,Unresolved,,App,True,Replacement
+CS0730,C0530,2025-08-21,Account issue,Low,38,Unresolved,3.0,App,True,Replacement
+CS0731,C2224,2025-01-08,Delivery problem,High,15,Resolved,1.0,In-Store,False,Apology
+CS0732,C1444,2025-09-13,Technical problem,High,45,Resolved,3.0,Phone,False,Apology
+CS0733,C2772,2024-10-24,Product complaint,Medium,69,Resolved,1.0,Phone,True,Refund
+CS0734,C0891,2025-10-31,Delivery problem,Low,31,Unresolved,1.0,Phone,False,Replacement
+CS0735,C2858,2025-10-26,Technical problem,High,7,Resolved,3.0,Email,False,Replacement
+CS0736,C1680,2025-03-31,Payment issue,High,28,Unresolved,1.0,In-Store,True,Refund
+CS0737,C2962,2024-12-20,Refund request,Low,46,Resolved,,Phone,True,Replacement
+CS0738,C2343,2025-06-05,Delivery problem,Medium,12,Resolved,2.0,Social Media,False,Apology
+CS0739,C2882,2024-12-30,Refund request,High,15,Resolved,,App,True,Apology
+CS0740,C0570,2025-05-23,Delivery problem,Low,33,Unresolved,3.0,Email,True,Replacement
+CS0741,C0104,2025-10-02,Delivery problem,Low,8,Unresolved,3.0,In-Store,True,Replacement
+CS0742,C3368,2025-08-07,Account issue,Medium,35,Unresolved,,Social Media,True,Apology
+CS0743,C0757,2025-06-01,Delivery problem,High,72,Unresolved,1.0,In-Store,False,Apology
+CS0744,C2612,2026-03-26,Payment issue,Medium,21,Unresolved,1.0,Social Media,True,None
+CS0745,C2927,2025-08-22,Delivery problem,Low,44,Unresolved,,Social Media,True,Apology
+CS0746,C1294,2025-08-22,Payment issue,Medium,45,Resolved,,Email,True,None
+CS0747,C0413,2026-04-24,Account issue,High,19,Resolved,,Phone,False,Refund
+CS0748,C1381,2025-05-23,Refund request,High,14,Resolved,,App,True,Apology
+CS0749,C1954,2026-05-04,Product complaint,Medium,63,Resolved,,Social Media,True,None
+CS0750,C1201,2026-07-21,Delivery problem,High,15,Resolved,,In-Store,True,None
+CS0751,C0495,2025-01-12,Refund request,High,44,Resolved,,Social Media,False,None
+CS0752,C0709,2026-07-13,Delivery problem,High,9,Unresolved,,Social Media,True,None
+CS0753,C0588,2025-07-19,Technical problem,Medium,46,Unresolved,,Social Media,False,Replacement
+CS0754,C0153,2026-07-17,Customer service complaint,High,65,Unresolved,,Email,False,Apology
+CS0755,C2673,2025-07-14,Technical problem,Medium,64,Resolved,,Social Media,False,Apology
+CS0756,C0531,2025-05-12,Delivery problem,Low,22,Unresolved,4.0,Email,False,Refund
+CS0757,C1215,2025-01-16,Technical problem,High,64,Unresolved,4.0,In-Store,False,None
+CS0758,C2322,2025-07-14,Account issue,Low,34,Resolved,3.0,In-Store,True,Apology
+CS0759,C1428,2026-03-23,Payment issue,High,60,Unresolved,,Email,True,None
+CS0760,C0641,2026-08-22,Payment issue,Low,17,Unresolved,5.0,App,True,Apology
+CS0761,C2280,2025-12-12,Refund request,Medium,35,Resolved,,In-Store,True,Replacement
+CS0762,C2332,2025-03-12,Payment issue,Low,67,Resolved,,In-Store,True,Apology
+CS0763,C2645,2025-04-24,Technical problem,Low,57,Unresolved,,App,True,Refund
+CS0764,C1969,2025-08-08,Account issue,High,20,Unresolved,2.0,Phone,True,Apology
+CS0765,C2268,2025-11-06,Account issue,Medium,10,Unresolved,,Social Media,True,None
+CS0766,C3459,2026-01-22,Delivery problem,Low,64,Unresolved,,Social Media,True,Apology
+CS0767,C0071,2026-04-21,Customer service complaint,Low,10,Resolved,,Social Media,True,Replacement
+CS0768,C0150,2026-08-26,Delivery problem,Low,7,Unresolved,1.0,App,True,Replacement
+CS0769,C2228,2026-06-23,Refund request,Medium,23,Resolved,2.0,Email,True,Apology
+CS0770,C2736,2026-08-05,Technical problem,High,47,Unresolved,,Social Media,False,Apology
+CS0771,C1914,2026-09-11,Refund request,Low,52,Resolved,,App,True,Refund
+CS0772,C0040,2025-11-15,Account issue,Medium,49,Unresolved,4.0,Phone,False,Apology
+CS0773,C0488,2025-04-10,Refund request,Medium,66,Unresolved,4.0,Email,False,Apology
+CS0774,C1035,2026-08-01,Delivery problem,High,60,Resolved,,Email,True,None
+CS0775,C0560,2025-07-07,Refund request,High,49,Resolved,4.0,Email,False,Replacement
+CS0776,C1791,2026-01-15,Technical problem,Medium,26,Unresolved,,Email,True,Refund
+CS0777,C2033,2024-12-06,Account issue,High,61,Resolved,3.0,Phone,False,None
+CS0778,C2559,2024-10-09,Account issue,Low,34,Unresolved,3.0,Email,True,Refund
+CS0779,C2090,2024-11-29,Payment issue,Medium,30,Resolved,3.0,Email,True,None
+CS0780,C2852,2025-06-05,Product complaint,Medium,64,Unresolved,4.0,Phone,False,None
+CS0781,C0500,2024-12-10,Customer service complaint,Low,7,Unresolved,,Social Media,False,Apology
+CS0782,C0557,2025-09-07,Technical problem,Medium,53,Unresolved,,Phone,True,None
+CS0783,C2190,2025-04-03,Account issue,High,47,Resolved,5.0,Social Media,True,Refund
+CS0784,C2300,2025-02-26,Customer service complaint,Low,57,Unresolved,,In-Store,False,Apology
+CS0785,C2029,2025-11-11,Payment issue,High,2,Resolved,3.0,In-Store,False,None
+CS0786,C1841,2026-05-01,Customer service complaint,High,59,Resolved,,Email,False,Replacement
+CS0787,C1302,2025-05-19,Delivery problem,Medium,23,Resolved,5.0,Email,False,None
+CS0788,C1267,2024-12-21,Refund request,Low,36,Resolved,,Social Media,False,Apology
+CS0789,C2412,2025-09-03,Account issue,Low,59,Unresolved,,Social Media,False,None
+CS0790,C2352,2025-01-19,Customer service complaint,Low,28,Resolved,,In-Store,True,Refund
+CS0791,C3330,2026-04-07,Delivery problem,Medium,36,Unresolved,,Email,True,Apology
+CS0792,C0699,2025-02-28,Product complaint,High,72,Unresolved,,Social Media,False,None
+CS0793,C1552,2024-12-25,Refund request,Medium,31,Unresolved,,Email,False,Apology
+CS0794,C1945,2025-12-25,Technical problem,Medium,45,Unresolved,,In-Store,False,Replacement
+CS0795,C0373,2025-06-15,Payment issue,Low,23,Unresolved,,Email,False,Replacement
+CS0796,C0935,2024-10-13,Refund request,Low,2,Unresolved,5.0,App,False,Refund
+CS0797,C1917,2024-12-12,Account issue,Low,62,Resolved,,Social Media,True,Refund
+CS0798,C2000,2026-02-18,Customer service complaint,Low,13,Unresolved,,Social Media,False,Replacement
+CS0799,C0331,2025-04-23,Customer service complaint,High,21,Resolved,5.0,Social Media,False,None
+CS0800,C0903,2025-08-26,Product complaint,Medium,39,Resolved,1.0,App,True,Apology
+CS0801,C3239,2024-11-22,Payment issue,Low,64,Resolved,2.0,Social Media,True,Apology
+CS0802,C0029,2025-11-26,Account issue,High,11,Unresolved,,Email,True,Apology
+CS0803,C1930,2024-09-13,Account issue,Medium,71,Unresolved,3.0,App,True,Refund
+CS0804,C0036,2025-08-18,Product complaint,Low,37,Resolved,,In-Store,False,Apology
+CS0805,C2213,2024-11-14,Technical problem,Medium,54,Unresolved,5.0,Social Media,True,Replacement
+CS0806,C1100,2024-12-08,Product complaint,Medium,22,Unresolved,,In-Store,True,Replacement
+CS0807,C0442,2025-10-19,Refund request,Medium,15,Unresolved,,Social Media,False,Apology
+CS0808,C1851,2026-03-14,Refund request,Medium,33,Unresolved,,App,True,Replacement
+CS0809,C1422,2025-07-19,Technical problem,High,3,Unresolved,3.0,Email,True,Replacement
+CS0810,C1729,2025-11-18,Product complaint,Medium,19,Unresolved,,In-Store,True,Replacement
+CS0811,C2268,2025-11-16,Delivery problem,Medium,18,Unresolved,5.0,Email,True,Refund
+CS0812,C2247,2025-05-28,Technical problem,High,19,Resolved,,App,True,None
+CS0813,C1533,2025-01-16,Product complaint,High,20,Resolved,4.0,Phone,True,Replacement
+CS0814,C0380,2026-02-14,Delivery problem,Low,11,Unresolved,3.0,In-Store,False,Apology
+CS0815,C0220,2024-11-05,Customer service complaint,High,55,Unresolved,,In-Store,False,Apology
+CS0816,C1732,2025-08-26,Payment issue,Medium,57,Resolved,,Email,True,None
+CS0817,C2308,2026-05-01,Account issue,Medium,34,Resolved,,Email,True,Replacement
+CS0818,C2588,2025-08-28,Delivery problem,Low,14,Resolved,,Phone,False,Apology
+CS0819,C3000,2025-11-30,Delivery problem,Medium,71,Unresolved,,Email,True,Replacement
+CS0820,C2659,2026-04-17,Delivery problem,Low,33,Resolved,,In-Store,False,Replacement
+CS0821,C0769,2025-06-14,Customer service complaint,Medium,42,Resolved,,App,True,None
+CS0822,C0220,2026-07-16,Technical problem,Low,13,Unresolved,,Email,False,Refund
+CS0823,C2244,2025-04-05,Refund request,Low,3,Resolved,,Email,True,Apology
+CS0824,C1357,2026-03-26,Technical problem,Low,1,Resolved,,Social Media,False,None
+CS0825,C1093,2024-10-19,Customer service complaint,Medium,16,Unresolved,,In-Store,True,Apology
+CS0826,C2629,2025-10-29,Payment issue,High,37,Resolved,4.0,Social Media,True,None
+CS0827,C0143,2026-04-29,Account issue,Medium,51,Unresolved,,Phone,False,Apology
+CS0828,C0499,2025-03-05,Payment issue,High,25,Resolved,4.0,Phone,True,None
+CS0829,C2269,2026-06-29,Payment issue,Medium,8,Unresolved,,Email,True,Replacement
+CS0830,C1762,2025-12-08,Payment issue,High,53,Unresolved,2.0,In-Store,False,Apology
+CS0831,C1243,2025-12-09,Technical problem,High,69,Unresolved,,Email,True,Replacement
+CS0832,C1718,2026-06-04,Product complaint,Medium,72,Resolved,,In-Store,True,Apology
+CS0833,C1349,2024-12-27,Payment issue,Medium,52,Resolved,,Social Media,True,None
+CS0834,C2717,2025-08-13,Payment issue,High,58,Resolved,5.0,Email,True,Replacement
+CS0835,C0289,2026-05-11,Refund request,Medium,72,Resolved,,In-Store,True,Replacement
+CS0836,C0200,2025-11-12,Technical problem,Low,19,Unresolved,,Social Media,True,Apology
+CS0837,C2850,2026-05-19,Technical problem,High,57,Resolved,,Social Media,True,None
+CS0838,C1365,2025-10-21,Customer service complaint,Medium,1,Resolved,5.0,Email,False,Replacement
+CS0839,C1798,2026-08-27,Payment issue,Medium,68,Unresolved,5.0,Email,True,Apology
+CS0840,C2897,2025-09-20,Customer service complaint,Medium,6,Resolved,,Email,False,Refund
+CS0841,C0419,2026-09-02,Product complaint,Medium,12,Resolved,,Social Media,False,Refund
+CS0842,C2119,2025-07-20,Customer service complaint,Medium,5,Resolved,4.0,Phone,True,None
+CS0843,C2781,2026-08-21,Technical problem,High,62,Resolved,,In-Store,True,None
+CS0844,C1285,2025-04-13,Refund request,Medium,72,Resolved,,Social Media,False,Apology
+CS0845,C0455,2025-06-30,Delivery problem,Low,17,Unresolved,4.0,In-Store,False,Apology
+CS0846,C0855,2026-04-22,Payment issue,Low,66,Unresolved,3.0,Social Media,False,Apology
+CS0847,C1162,2025-09-14,Refund request,Medium,25,Unresolved,2.0,Social Media,True,Refund
+CS0848,C2502,2025-09-28,Refund request,Low,9,Unresolved,1.0,Social Media,True,None
+CS0849,C2510,2025-06-05,Technical problem,Medium,10,Unresolved,,Social Media,True,None
+CS0850,C2844,2026-03-11,Delivery problem,Medium,67,Resolved,2.0,In-Store,True,Replacement
+CS0851,C3076,2025-12-13,Technical problem,High,54,Unresolved,,App,False,Refund
+CS0852,C1571,2024-10-22,Refund request,Medium,71,Resolved,2.0,In-Store,True,None
+CS0853,C3113,2026-06-17,Technical problem,Low,17,Unresolved,,Email,True,None
+CS0854,C2305,2024-11-23,Customer service complaint,High,13,Resolved,,Email,True,None
+CS0855,C3249,2024-09-17,Product complaint,Medium,23,Resolved,5.0,Phone,True,Apology
+CS0856,C2819,2025-04-25,Payment issue,Medium,62,Resolved,5.0,Social Media,False,None
+CS0857,C1331,2024-11-28,Product complaint,Medium,70,Unresolved,1.0,Email,True,Replacement
+CS0858,C2981,2025-10-25,Delivery problem,High,60,Unresolved,,App,True,Apology
+CS0859,C1389,2025-07-16,Product complaint,Low,72,Resolved,,App,True,Replacement
+CS0860,C2226,2026-08-12,Technical problem,High,39,Unresolved,1.0,In-Store,True,None
+CS0861,C2537,2025-08-30,Delivery problem,High,19,Unresolved,5.0,Email,False,Refund
+CS0862,C1633,2026-02-21,Delivery problem,Medium,45,Resolved,,Email,True,None
+CS0863,C2232,2026-02-03,Refund request,Low,32,Resolved,,Email,False,Apology
+CS0864,C3164,2024-12-14,Customer service complaint,Low,2,Unresolved,,Phone,True,Refund
+CS0865,C1374,2026-06-26,Customer service complaint,Low,56,Resolved,5.0,Phone,False,Apology
+CS0866,C1571,2026-01-09,Refund request,Medium,12,Resolved,,App,False,Replacement
+CS0867,C1171,2024-09-12,Delivery problem,Medium,14,Unresolved,2.0,App,False,Apology
+CS0868,C0639,2025-07-25,Payment issue,Low,67,Resolved,,Phone,False,Apology
+CS0869,C1336,2024-12-31,Refund request,Medium,19,Resolved,,Phone,True,None
+CS0870,C2375,2026-05-03,Customer service complaint,Low,30,Unresolved,,Social Media,True,None
+CS0871,C3453,2026-05-21,Customer service complaint,High,48,Resolved,5.0,In-Store,False,Apology
+CS0872,C2289,2024-09-17,Account issue,Low,26,Unresolved,,Email,True,Replacement
+CS0873,C0263,2025-01-20,Refund request,Medium,54,Resolved,1.0,Social Media,False,Replacement
+CS0874,C3237,2026-04-08,Technical problem,Low,15,Unresolved,,Social Media,True,Refund
+CS0875,C3346,2024-11-12,Delivery problem,Low,63,Resolved,3.0,Phone,False,None
+CS0876,C2119,2026-06-23,Payment issue,High,57,Resolved,1.0,In-Store,True,Apology
+CS0877,C2426,2026-07-27,Refund request,Low,62,Resolved,1.0,Social Media,False,Refund
+CS0878,C2658,2026-08-08,Customer service complaint,Low,9,Unresolved,1.0,Social Media,True,None
+CS0879,C2567,2025-06-22,Payment issue,Low,8,Unresolved,1.0,App,True,Apology
+CS0880,C0841,2025-02-05,Refund request,High,25,Unresolved,,Email,False,Replacement
+CS0881,C2008,2025-09-05,Payment issue,Low,64,Resolved,2.0,Email,True,None
+CS0882,C2331,2026-01-06,Account issue,High,35,Resolved,,Social Media,True,Refund
+CS0883,C0963,2026-09-09,Payment issue,High,4,Resolved,2.0,Social Media,False,Refund
+CS0884,C1361,2025-09-16,Account issue,Medium,39,Resolved,,Email,True,Replacement
+CS0885,C0628,2026-08-25,Account issue,Low,71,Unresolved,,Phone,True,Refund
+CS0886,C1678,2025-04-19,Account issue,High,5,Resolved,,In-Store,False,Apology
+CS0887,C0597,2025-06-19,Customer service complaint,Medium,18,Resolved,,Email,False,Apology
+CS0888,C2662,2025-09-07,Delivery problem,High,29,Resolved,,App,True,Refund
+CS0889,C2130,2025-09-24,Account issue,High,18,Resolved,5.0,App,True,Apology
+CS0890,C1406,2026-07-22,Customer service complaint,Medium,21,Resolved,,Social Media,False,Replacement
+CS0891,C2051,2026-05-29,Customer service complaint,Low,37,Resolved,,In-Store,True,Refund
+CS0892,C3445,2025-10-07,Product complaint,High,42,Unresolved,,Email,False,Refund
+CS0893,C2036,2025-10-31,Product complaint,Low,2,Resolved,5.0,Phone,False,Apology
+CS0894,C2146,2025-04-25,Refund request,High,44,Resolved,,App,False,None
+CS0895,C2167,2026-08-19,Delivery problem,Low,24,Resolved,,Social Media,False,Replacement
+CS0896,C1816,2025-03-01,Product complaint,High,66,Unresolved,,Social Media,False,None
+CS0897,C0768,2026-01-05,Payment issue,Medium,15,Resolved,,In-Store,True,None
+CS0898,C2847,2025-11-30,Technical problem,High,41,Resolved,,Email,False,Apology
+CS0899,C3016,2026-07-22,Payment issue,High,60,Resolved,,App,True,Apology
+CS0900,C1685,2026-05-30,Product complaint,Medium,14,Unresolved,,In-Store,False,None
+CS0901,C2529,2025-05-01,Payment issue,Medium,71,Unresolved,3.0,Phone,False,Replacement
+CS0902,C1333,2025-09-01,Product complaint,Low,54,Resolved,3.0,Phone,True,Apology
+CS0903,C0744,2026-01-16,Account issue,Low,19,Unresolved,,Social Media,True,Apology
+CS0904,C3457,2024-10-03,Product complaint,Low,56,Resolved,,Email,True,None
+CS0905,C2513,2026-03-19,Product complaint,High,21,Resolved,5.0,Social Media,True,Replacement
+CS0906,C0016,2024-12-10,Technical problem,Medium,55,Resolved,1.0,Phone,True,None
+CS0907,C2759,2024-09-23,Product complaint,Medium,9,Resolved,3.0,Social Media,False,Refund
+CS0908,C3210,2025-07-14,Product complaint,Low,11,Resolved,,In-Store,False,Apology
+CS0909,C2603,2025-01-09,Product complaint,Low,44,Unresolved,5.0,Email,True,Apology
+CS0910,C0894,2025-06-18,Delivery problem,Low,42,Resolved,2.0,App,True,Apology
+CS0911,C0874,2026-03-14,Technical problem,High,28,Resolved,,In-Store,True,Apology
+CS0912,C2131,2024-11-25,Technical problem,Low,68,Unresolved,1.0,Phone,False,Apology
+CS0913,C1978,2026-05-31,Account issue,Medium,37,Resolved,5.0,Email,False,Refund
+CS0914,C2615,2025-04-08,Account issue,Medium,63,Unresolved,,In-Store,False,Apology
+CS0915,C0103,2024-11-02,Delivery problem,High,64,Unresolved,3.0,App,True,Apology
+CS0916,C1868,2026-03-21,Technical problem,Low,24,Resolved,2.0,App,False,Apology
+CS0917,C2446,2025-05-07,Product complaint,Low,53,Resolved,,In-Store,False,Replacement
+CS0918,C1390,2026-03-18,Account issue,Medium,7,Resolved,5.0,In-Store,False,Apology
+CS0919,C0170,2025-04-18,Customer service complaint,High,49,Unresolved,,Email,False,Apology
+CS0920,C0019,2026-03-27,Delivery problem,Medium,52,Resolved,,In-Store,True,Refund
+CS0921,C2989,2025-09-10,Refund request,Medium,71,Resolved,3.0,App,True,Refund
+CS0922,C0862,2026-01-13,Technical problem,Low,45,Resolved,2.0,Social Media,True,Apology
+CS0923,C0739,2024-12-13,Payment issue,Low,42,Unresolved,5.0,Phone,False,None
+CS0924,C3279,2025-09-27,Technical problem,High,41,Unresolved,,Email,False,Apology
+CS0925,C3214,2025-08-27,Delivery problem,High,68,Resolved,1.0,In-Store,True,None
+CS0926,C2023,2025-04-16,Product complaint,Medium,38,Resolved,2.0,In-Store,True,Apology
+CS0927,C1068,2025-01-25,Product complaint,Low,24,Resolved,3.0,In-Store,True,None
+CS0928,C1414,2025-11-08,Technical problem,High,6,Unresolved,5.0,App,True,Apology
+CS0929,C0460,2026-04-15,Refund request,Medium,42,Resolved,,Social Media,False,None
+CS0930,C2263,2025-06-23,Delivery problem,Low,11,Unresolved,,In-Store,True,Refund
+CS0931,C3031,2025-09-24,Customer service complaint,Low,52,Unresolved,5.0,In-Store,True,Refund
+CS0932,C2157,2026-06-17,Delivery problem,High,29,Unresolved,,Email,True,Replacement
+CS0933,C1228,2025-04-02,Payment issue,Medium,7,Resolved,2.0,Social Media,True,Apology
+CS0934,C2848,2025-02-08,Payment issue,Medium,57,Resolved,1.0,In-Store,False,None
+CS0935,C2563,2026-05-04,Account issue,High,68,Unresolved,5.0,Email,True,Refund
+CS0936,C1466,2026-04-03,Customer service complaint,High,63,Resolved,5.0,Social Media,True,None
+CS0937,C2880,2025-05-13,Payment issue,High,53,Unresolved,,Phone,True,Refund
+CS0938,C0498,2024-10-28,Technical problem,Medium,56,Resolved,,App,False,Apology
+CS0939,C1436,2025-03-09,Customer service complaint,Low,40,Unresolved,5.0,Email,True,Refund
+CS0940,C0309,2025-09-22,Customer service complaint,Low,48,Unresolved,,Email,False,Refund
+CS0941,C1148,2025-02-20,Refund request,High,28,Unresolved,2.0,App,True,None
+CS0942,C0767,2025-06-29,Delivery problem,Low,56,Resolved,2.0,In-Store,False,Apology
+CS0943,C1743,2025-10-27,Account issue,Medium,36,Resolved,3.0,App,False,Replacement
+CS0944,C0507,2026-02-22,Product complaint,Low,40,Unresolved,5.0,App,False,Apology
+CS0945,C0170,2026-04-25,Refund request,Low,8,Unresolved,,Email,False,None
+CS0946,C1056,2026-06-11,Account issue,Low,24,Unresolved,,App,True,Replacement
+CS0947,C1047,2025-01-21,Account issue,Medium,4,Resolved,2.0,Email,False,None
+CS0948,C2392,2025-02-10,Delivery problem,Low,49,Unresolved,,Social Media,True,None
+CS0949,C1052,2025-11-26,Delivery problem,High,29,Unresolved,1.0,App,False,Refund
+CS0950,C1653,2025-07-29,Technical problem,Medium,4,Resolved,1.0,App,True,Refund
+CS0951,C1784,2026-04-27,Technical problem,Medium,32,Resolved,,Phone,True,Replacement
+CS0952,C2397,2025-02-22,Product complaint,Low,50,Unresolved,,Social Media,True,Refund
+CS0953,C2692,2025-06-14,Refund request,Medium,36,Resolved,2.0,Phone,False,Apology
+CS0954,C3276,2025-09-27,Technical problem,Low,29,Resolved,,Email,False,Replacement
+CS0955,C2851,2026-01-28,Refund request,Medium,14,Unresolved,,In-Store,False,Apology
+CS0956,C2015,2025-09-25,Product complaint,Medium,56,Resolved,1.0,Social Media,True,Refund
+CS0957,C2029,2025-05-08,Payment issue,Low,40,Resolved,,Phone,False,Replacement
+CS0958,C3487,2026-08-15,Product complaint,High,66,Unresolved,,Social Media,True,Refund
+CS0959,C2324,2026-04-07,Payment issue,High,26,Resolved,,App,True,Apology
+CS0960,C2771,2024-12-19,Product complaint,Medium,61,Unresolved,5.0,App,False,Replacement
+CS0961,C2730,2026-08-25,Refund request,High,30,Resolved,2.0,Social Media,False,Apology
+CS0962,C1750,2026-08-25,Customer service complaint,High,53,Resolved,,In-Store,False,Replacement
+CS0963,C1024,2025-01-23,Refund request,High,51,Resolved,,In-Store,False,Apology
+CS0964,C1643,2024-10-30,Payment issue,Low,60,Unresolved,4.0,Social Media,False,Replacement
+CS0965,C0458,2025-05-27,Technical problem,High,61,Unresolved,,Social Media,False,Apology
+CS0966,C1627,2025-08-23,Delivery problem,High,15,Resolved,5.0,App,False,Replacement
+CS0967,C2945,2026-07-10,Account issue,Low,5,Resolved,,Social Media,False,Refund
+CS0968,C2222,2026-02-28,Technical problem,Medium,48,Unresolved,1.0,App,True,Replacement
+CS0969,C2573,2024-10-17,Refund request,Low,17,Unresolved,3.0,Phone,True,None
+CS0970,C0073,2025-03-08,Customer service complaint,Low,50,Resolved,4.0,Phone,False,Refund
+CS0971,C0958,2025-02-05,Account issue,Low,17,Resolved,3.0,In-Store,True,Refund
+CS0972,C0708,2026-01-26,Account issue,Low,33,Unresolved,1.0,Email,False,None
+CS0973,C2944,2026-07-10,Technical problem,High,66,Unresolved,,App,False,Apology
+CS0974,C0869,2025-02-28,Product complaint,Medium,36,Resolved,4.0,In-Store,False,Replacement
+CS0975,C2545,2026-03-22,Delivery problem,High,29,Resolved,1.0,Phone,False,Apology
+CS0976,C0832,2024-11-11,Customer service complaint,Low,25,Resolved,,In-Store,False,Apology
+CS0977,C1774,2025-07-02,Customer service complaint,Low,24,Unresolved,4.0,Social Media,False,Refund
+CS0978,C1490,2024-10-28,Payment issue,Low,43,Unresolved,,Email,False,Apology
+CS0979,C0917,2025-09-04,Technical problem,High,20,Unresolved,,In-Store,True,Apology
+CS0980,C2029,2025-04-24,Technical problem,Medium,52,Unresolved,,Email,True,Refund
+CS0981,C2367,2025-04-13,Product complaint,Low,17,Resolved,4.0,Phone,False,Apology
+CS0982,C1609,2024-12-18,Account issue,Low,27,Unresolved,4.0,Social Media,True,Replacement
+CS0983,C2197,2025-01-25,Customer service complaint,Medium,21,Resolved,,In-Store,True,Apology
+CS0984,C3009,2025-05-30,Account issue,High,11,Unresolved,4.0,Email,True,Replacement
+CS0985,C3064,2026-05-30,Account issue,High,41,Resolved,3.0,Email,True,Replacement
+CS0986,C1216,2025-10-13,Customer service complaint,Low,4,Resolved,,Phone,True,None
+CS0987,C2011,2025-07-03,Customer service complaint,Medium,21,Resolved,,Phone,True,Apology
+CS0988,C0456,2026-07-26,Payment issue,High,62,Resolved,,App,True,Replacement
+CS0989,C1925,2026-01-26,Account issue,High,45,Unresolved,,Social Media,True,Apology
+CS0990,C3107,2025-10-23,Refund request,Medium,27,Resolved,,Social Media,False,None
+CS0991,C1994,2024-12-02,Product complaint,Medium,48,Unresolved,,Email,True,Apology
+CS0992,C3222,2025-02-12,Customer service complaint,Low,40,Unresolved,,Social Media,True,None
+CS0993,C1470,2025-03-26,Delivery problem,Low,1,Resolved,,Phone,False,Refund
+CS0994,C2472,2025-02-28,Account issue,High,62,Unresolved,,Email,True,Refund
+CS0995,C0507,2025-02-11,Delivery problem,Low,21,Unresolved,5.0,Phone,True,Apology
+CS0996,C3384,2025-10-27,Account issue,High,50,Unresolved,,In-Store,False,None
+CS0997,C2959,2025-01-06,Product complaint,High,7,Unresolved,3.0,Phone,True,Refund
+CS0998,C2047,2025-03-27,Account issue,Low,59,Unresolved,1.0,In-Store,True,Apology
+CS0999,C2062,2025-07-17,Payment issue,Low,66,Unresolved,,In-Store,False,Apology
+CS1000,C0541,2026-03-17,Refund request,Medium,18,Unresolved,,Phone,False,Replacement

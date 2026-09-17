@@ -1,0 +1,16 @@
+Feature	Importance
+Tenure_Days	0.20452573
+Historical_Revenue	0.18870513
+Average_Order_Value	0.180899238
+Recency	0.175589778
+Customer_Lifetime_Days	0.067608138
+Total_Transactions	0.030192391
+Gender_M	0.028698568
+Service_Cases	0.020479211
+Average_Satisfaction	0.017663746
+Age_Group_26-40	0.015267379
+Gender_Other	0.015199975
+Income_Band_Medium	0.015001876
+Age_Group_60+	0.014590441
+Income_Band_Low	0.013163967
+Age_Group_41-60	0.012414431
